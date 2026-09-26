@@ -1,0 +1,81 @@
+{
+  "capture": {
+    "started_or_completed_at": "2026-09-25T12:26:11.529900+00:00",
+    "base_url": "https://plexusdevelopmentgroup.ca",
+    "scope": "Public pages and publicly referenced resources on or directly used by the legacy Plexus site; no form submission or private-system access.",
+    "user_agent": "Mozilla/5.0 (compatible; PlexusWebsiteResearch/1.0; public-content archival for website redevelopment)"
+  },
+  "counts": {
+    "html_pages": 7,
+    "fetch_results": 9,
+    "assets_referenced": 661,
+    "assets_downloaded": 661,
+    "internal_link_targets": 7,
+    "external_link_targets": 5
+  },
+  "pages": [
+    {
+      "url": "https://plexusdevelopmentgroup.ca/",
+      "title": "Plexus Development Group: Expert Construction in Nova Scotia | Plexus Development Group",
+      "description": "Plexus Development Group specializes in residential, commercial, and industrial construction across Nova Scotia. Experience precision and care in every project we undertake, ensuring high-quality results for all your construction needs.",
+      "canonical": "https://plexusdevelopmentgroup.ca/",
+      "bytes": 274350,
+      "raw_path": "pages/raw/home.html",
+      "text_path": "pages/text/home.txt"
+    },
+    {
+      "url": "https://plexusdevelopmentgroup.ca/residential-construction",
+      "title": "Residential Construction Development in Nova Scotia | Plexus Development Group",
+      "description": "Residential development in Nova Scotia focused on modern housing, community growth, and high-quality construction. Building homes designed for long-term value. Looking to invest or build in Nova Scotia? Explore residential construction development opportunities.",
+      "canonical": "https://plexusdevelopmentgroup.ca/residential-construction",
+      "bytes": 131819,
+      "raw_path": "pages/raw/residential-construction.html",
+      "text_path": "pages/text/residential-construction.txt"
+    },
+    {
+      "url": "https://plexusdevelopmentgroup.ca/community",
+      "title": "Connecting People and Community with Plexus Development Group | Plexus Development Group",
+      "description": "Plexus Development Group is a Real Estate Developer in Nova Scotia actively working for sustainability and bringing positive change in the community. Call us for Commercial Real Estate Nova Scotia",
+      "canonical": "https://plexusdevelopmentgroup.ca/community",
+      "bytes": 174674,
+      "raw_path": "pages/raw/community.html",
+      "text_path": "pages/text/community.txt"
+    },
+    {
+      "url": "https://plexusdevelopmentgroup.ca/commercial-construction",
+      "title": "Commercial Construction Experts in Nova Scotia | Plexus Development Group",
+      "description": "Leading commercial construction experts in Nova Scotia offering reliable project execution, strategic partnerships, and high-value development across Halifax and surrounding areas. Looking for commercial construction experts in Nova Scotia?",
+      "canonical": "https://plexusdevelopmentgroup.ca/commercial-construction",
+      "bytes": 108702,
+      "raw_path": "pages/raw/commercial-construction.html",
+      "text_path": "pages/text/commercial-construction.txt"
+    },
+    {
+      "url": "https://plexusdevelopmentgroup.ca/contact-for-real-estate-opportunities",
+      "title": "Contact Plexus Development Group for Investment Properties and Halifax Real Estate | Plexus Development Group",
+      "description": "Plexus Development Group is your go-to Halifax-based real estate company specializing in residential, commercial, and industrial building solutions. Discover prime investment properties in Nova Scotia with our expert development services.",
+      "canonical": "https://plexusdevelopmentgroup.ca/contact-for-real-estate-opportunities",
+      "bytes": 90264,
+      "raw_path": "pages/raw/contact-for-real-estate-opportunities.html",
+      "text_path": "pages/text/contact-for-real-estate-opportunities.txt"
+    },
+    {
+      "url": "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects",
+      "title": "Plexus Development Group  Nova Scotia Construction Projects | Plexus Development Group",
+      "description": "Discover Plexus Development Group’s commercial, residential, and industrial projects in Nova Scotia, delivering high-quality developments across Halifax and surrounding areas. Nova Scotia Construction Company with residential, industrial and Commercial Projects across Nova Scotia",
+      "canonical": "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects",
+      "bytes": 263350,
+      "raw_path": "pages/raw/nova-scotia-construction-projects.html",
+      "text_path": "pages/text/nova-scotia-construction-projects.txt"
+    },
+    {
+      "url": "https://plexusdevelopmentgroup.ca/industrial-construction",
+      "title": "Industrial Construction Development Experts in Nova Scotia | Plexus Development Group",
+      "description": "Industrial development experts in Nova Scotia specializing in land acquisition, planning, and large-scale commercial projects. Partner with Plexus Development Group for strategic investment opportunities and industrial Construction.",
+      "canonical": "https://plexusdevelopmentgroup.ca/industrial-construction",
+      "bytes": 74015,
+      "raw_path": "pages/raw/industrial-construction.html",
+      "text_path": "pages/text/industrial-construction.txt"
+    }
+  ]
+}

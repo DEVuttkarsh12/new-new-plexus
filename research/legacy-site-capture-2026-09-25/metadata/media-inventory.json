@@ -1,0 +1,1856 @@
+[
+  {
+    "number": 1,
+    "key": "images.pexels.com:/videos/2282013/free-video-2282013.jpg",
+    "source_filename": "free-video-2282013.jpg",
+    "source_url": "https://images.pexels.com/videos/2282013/free-video-2282013.jpg?cs=tinysrgb&fit=crop&h=630&w=2400&fm=jpg",
+    "source_local_path": "media-originals/images.pexels.com______videos___2282013___free-video-2282013.jpg.jpg",
+    "source_width": 2400,
+    "source_height": 630,
+    "source_content_type": "image/jpeg",
+    "source_bytes": 220292,
+    "source_sha256": "95199d4247ad3afb15b6bcd8f90ecf104787bc19d11fa3b8d48a79f331fc287e",
+    "source_fetch": {
+      "url": "https://images.pexels.com/videos/2282013/free-video-2282013.jpg?cs=tinysrgb&fit=crop&h=630&w=2400&fm=jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 220292,
+      "sha256": "95199d4247ad3afb15b6bcd8f90ecf104787bc19d11fa3b8d48a79f331fc287e",
+      "downloaded": true
+    },
+    "primary_used_url": "https://images.pexels.com/videos/2282013/free-video-2282013.jpg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+    "primary_local_path": "assets/images/0ee203f29246-free-video-2282013.jpg.jpg",
+    "width": null,
+    "height": null,
+    "alt_texts": [],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/"
+    ],
+    "variant_count": 1,
+    "variant_urls": [
+      "https://images.pexels.com/videos/2282013/free-video-2282013.jpg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200"
+    ]
+  },
+  {
+    "number": 2,
+    "key": "unsplash:photo-1493612276216-ee3925520721",
+    "source_filename": "photo-1493612276216-ee3925520721",
+    "source_url": "https://images.unsplash.com/photo-1493612276216-ee3925520721?fm=jpg&fit=max&w=2400&q=90",
+    "source_local_path": "media-originals/unsplash___photo-1493612276216-ee3925520721",
+    "source_width": 2400,
+    "source_height": 3000,
+    "source_content_type": "image/jpeg",
+    "source_bytes": 597065,
+    "source_sha256": "db45b3a8821601e503cffe4057b620bdc54981a7408bfdbfbab2a07c6a373258",
+    "source_fetch": {
+      "url": "https://images.unsplash.com/photo-1493612276216-ee3925520721?fm=jpg&fit=max&w=2400&q=90",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 597065,
+      "sha256": "db45b3a8821601e503cffe4057b620bdc54981a7408bfdbfbab2a07c6a373258",
+      "downloaded": true
+    },
+    "primary_used_url": "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=1080&h=869",
+    "primary_local_path": "assets/images/d5e243837e99-photo-1493612276216-ee3925520721.avif",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "person holding light bulb"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/community"
+    ],
+    "variant_count": 12,
+    "variant_urls": [
+      "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=1080&h=869",
+      "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=328&h=195",
+      "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=328&h=264",
+      "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=360&h=290",
+      "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=437&h=260",
+      "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=656&h=390",
+      "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=656&h=528",
+      "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=720&h=580",
+      "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=861&h=512",
+      "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=874&h=520",
+      "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=945&h=761",
+      "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&w=984&h=585"
+    ]
+  },
+  {
+    "number": 3,
+    "key": "unsplash:photo-1527672809634-04ed36500acd",
+    "source_filename": "photo-1527672809634-04ed36500acd",
+    "source_url": "https://images.unsplash.com/photo-1527672809634-04ed36500acd?fm=jpg&fit=max&w=2400&q=90",
+    "source_local_path": "media-originals/unsplash___photo-1527672809634-04ed36500acd",
+    "source_width": 2400,
+    "source_height": 3600,
+    "source_content_type": "image/jpeg",
+    "source_bytes": 1334613,
+    "source_sha256": "ed9d0100eb0669ccd0463bed0bbcc596dea47a51315a3ace17536a24ab8213e3",
+    "source_fetch": {
+      "url": "https://images.unsplash.com/photo-1527672809634-04ed36500acd?fm=jpg&fit=max&w=2400&q=90",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 1334613,
+      "sha256": "ed9d0100eb0669ccd0463bed0bbcc596dea47a51315a3ace17536a24ab8213e3",
+      "downloaded": true
+    },
+    "primary_used_url": "https://images.unsplash.com/photo-1527672809634-04ed36500acd?auto=format&fit=crop&w=1212&h=928",
+    "primary_local_path": "assets/images/760d1c3f7f6f-photo-1527672809634-04ed36500acd.avif",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "marble toy"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/community"
+    ],
+    "variant_count": 12,
+    "variant_urls": [
+      "https://images.unsplash.com/photo-1527672809634-04ed36500acd?auto=format&fit=crop&w=1080&h=1054",
+      "https://images.unsplash.com/photo-1527672809634-04ed36500acd?auto=format&fit=crop&w=1212&h=928",
+      "https://images.unsplash.com/photo-1527672809634-04ed36500acd?auto=format&fit=crop&w=328&h=251",
+      "https://images.unsplash.com/photo-1527672809634-04ed36500acd?auto=format&fit=crop&w=328&h=320",
+      "https://images.unsplash.com/photo-1527672809634-04ed36500acd?auto=format&fit=crop&w=360&h=351",
+      "https://images.unsplash.com/photo-1527672809634-04ed36500acd?auto=format&fit=crop&w=606&h=464",
+      "https://images.unsplash.com/photo-1527672809634-04ed36500acd?auto=format&fit=crop&w=656&h=502",
+      "https://images.unsplash.com/photo-1527672809634-04ed36500acd?auto=format&fit=crop&w=656&h=640",
+      "https://images.unsplash.com/photo-1527672809634-04ed36500acd?auto=format&fit=crop&w=720&h=702",
+      "https://images.unsplash.com/photo-1527672809634-04ed36500acd?auto=format&fit=crop&w=861&h=659",
+      "https://images.unsplash.com/photo-1527672809634-04ed36500acd?auto=format&fit=crop&w=945&h=922",
+      "https://images.unsplash.com/photo-1527672809634-04ed36500acd?auto=format&fit=crop&w=984&h=753"
+    ]
+  },
+  {
+    "number": 4,
+    "key": "unsplash:photo-1548248823-ce16a73b6d49",
+    "source_filename": "photo-1548248823-ce16a73b6d49",
+    "source_url": "https://images.unsplash.com/photo-1548248823-ce16a73b6d49?fm=jpg&fit=max&w=2400&q=90",
+    "source_local_path": "media-originals/unsplash___photo-1548248823-ce16a73b6d49",
+    "source_width": 2400,
+    "source_height": 3593,
+    "source_content_type": "image/jpeg",
+    "source_bytes": 1877445,
+    "source_sha256": "524a874a154fc2aabfdeb4facd3b611e44f807d888359a5a5c8173c8d0faca21",
+    "source_fetch": {
+      "url": "https://images.unsplash.com/photo-1548248823-ce16a73b6d49?fm=jpg&fit=max&w=2400&q=90",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 1877445,
+      "sha256": "524a874a154fc2aabfdeb4facd3b611e44f807d888359a5a5c8173c8d0faca21",
+      "downloaded": true
+    },
+    "primary_used_url": "https://images.unsplash.com/photo-1548248823-ce16a73b6d49?auto=format&fit=crop&w=3840",
+    "primary_local_path": "assets/images/92f3ddc3ffa1-photo-1548248823-ce16a73b6d49.avif",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "an abstract photo of a curved building with a blue sky in the background"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/",
+      "https://plexusdevelopmentgroup.ca/commercial-construction"
+    ],
+    "variant_count": 8,
+    "variant_urls": [
+      "https://images.unsplash.com/photo-1548248823-ce16a73b6d49?auto=format&fit=crop&w=1080",
+      "https://images.unsplash.com/photo-1548248823-ce16a73b6d49?auto=format&fit=crop&w=1440",
+      "https://images.unsplash.com/photo-1548248823-ce16a73b6d49?auto=format&fit=crop&w=1920",
+      "https://images.unsplash.com/photo-1548248823-ce16a73b6d49?auto=format&fit=crop&w=2880",
+      "https://images.unsplash.com/photo-1548248823-ce16a73b6d49?auto=format&fit=crop&w=360",
+      "https://images.unsplash.com/photo-1548248823-ce16a73b6d49?auto=format&fit=crop&w=3840",
+      "https://images.unsplash.com/photo-1548248823-ce16a73b6d49?auto=format&fit=crop&w=720",
+      "https://images.unsplash.com/photo-1548248823-ce16a73b6d49?auto=format&fit=crop&w=945"
+    ]
+  },
+  {
+    "number": 5,
+    "key": "unsplash:photo-1582213782179-e0d53f98f2ca",
+    "source_filename": "photo-1582213782179-e0d53f98f2ca",
+    "source_url": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?fm=jpg&fit=max&w=2400&q=90",
+    "source_local_path": "media-originals/unsplash___photo-1582213782179-e0d53f98f2ca",
+    "source_width": 2400,
+    "source_height": 1600,
+    "source_content_type": "image/jpeg",
+    "source_bytes": 708258,
+    "source_sha256": "0ddfa06541262ae0c85e7ab62091dcf10a34bc28f012ca5f08839e779177302a",
+    "source_fetch": {
+      "url": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?fm=jpg&fit=max&w=2400&q=90",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 708258,
+      "sha256": "0ddfa06541262ae0c85e7ab62091dcf10a34bc28f012ca5f08839e779177302a",
+      "downloaded": true
+    },
+    "primary_used_url": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=1106&h=960",
+    "primary_local_path": "assets/images/1658004bbe27-photo-1582213782179-e0d53f98f2ca.avif",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "person in red sweater holding babys hand"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/community"
+    ],
+    "variant_count": 12,
+    "variant_urls": [
+      "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=1080&h=869",
+      "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=1106&h=960",
+      "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=328&h=264",
+      "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=328&h=285",
+      "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=360&h=290",
+      "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=553&h=480",
+      "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=656&h=528",
+      "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=656&h=569",
+      "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=720&h=580",
+      "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=861&h=747",
+      "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=945&h=761",
+      "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=984&h=854"
+    ]
+  },
+  {
+    "number": 6,
+    "key": "unsplash:photo-1584132967334-10e028bd69f7",
+    "source_filename": "photo-1584132967334-10e028bd69f7",
+    "source_url": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?fm=jpg&fit=max&w=2400&q=90",
+    "source_local_path": "media-originals/unsplash___photo-1584132967334-10e028bd69f7",
+    "source_width": 2400,
+    "source_height": 1600,
+    "source_content_type": "image/jpeg",
+    "source_bytes": 1031030,
+    "source_sha256": "c5fc0447f7329e7261c18b734363c40f3735af19d9a4e6601e4c55149ae164ba",
+    "source_fetch": {
+      "url": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?fm=jpg&fit=max&w=2400&q=90",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 1031030,
+      "sha256": "c5fc0447f7329e7261c18b734363c40f3735af19d9a4e6601e4c55149ae164ba",
+      "downloaded": true
+    },
+    "primary_used_url": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=1080&h=843",
+    "primary_local_path": "assets/images/74c8de86fbf8-photo-1584132967334-10e028bd69f7.avif",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Brown wooden table and chairs on brown wooden deck near body of water during daytime"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects"
+    ],
+    "variant_count": 12,
+    "variant_urls": [
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=1080&h=843",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=328&h=249",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=328&h=256",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=360&h=281",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=400&h=304",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=656&h=499",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=656&h=512",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=720&h=562",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=800&h=608",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=861&h=654",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=945&h=738",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=984&h=748"
+    ]
+  },
+  {
+    "number": 7,
+    "key": "unsplash:photo-1586423951975-ba24e359efc0",
+    "source_filename": "photo-1586423951975-ba24e359efc0",
+    "source_url": "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?fm=jpg&fit=max&w=2400&q=90",
+    "source_local_path": "media-originals/unsplash___photo-1586423951975-ba24e359efc0",
+    "source_width": 2400,
+    "source_height": 1800,
+    "source_content_type": "image/jpeg",
+    "source_bytes": 1151995,
+    "source_sha256": "94b4017cb7f09d0e975795b954f3343e069f3648cbaa0a4da79baad82f06d27a",
+    "source_fetch": {
+      "url": "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?fm=jpg&fit=max&w=2400&q=90",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 1151995,
+      "sha256": "94b4017cb7f09d0e975795b954f3343e069f3648cbaa0a4da79baad82f06d27a",
+      "downloaded": true
+    },
+    "primary_used_url": "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?auto=format&fit=crop&w=1080&h=738",
+    "primary_local_path": "assets/images/495eedd92797-photo-1586423951975-ba24e359efc0.avif",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "A bustling commercial construction site showing teams collaborating on steel framework."
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/"
+    ],
+    "variant_count": 12,
+    "variant_urls": [
+      "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?auto=format&fit=crop&w=1080&h=738",
+      "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?auto=format&fit=crop&w=1212&h=608",
+      "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?auto=format&fit=crop&w=328&h=165",
+      "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?auto=format&fit=crop&w=328&h=224",
+      "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?auto=format&fit=crop&w=360&h=246",
+      "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?auto=format&fit=crop&w=606&h=304",
+      "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?auto=format&fit=crop&w=656&h=329",
+      "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?auto=format&fit=crop&w=656&h=448",
+      "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?auto=format&fit=crop&w=720&h=492",
+      "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?auto=format&fit=crop&w=861&h=432",
+      "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?auto=format&fit=crop&w=945&h=645",
+      "https://images.unsplash.com/photo-1586423951975-ba24e359efc0?auto=format&fit=crop&w=984&h=494"
+    ]
+  },
+  {
+    "number": 8,
+    "key": "unsplash:photo-1609234656388-0ff363383899",
+    "source_filename": "photo-1609234656388-0ff363383899",
+    "source_url": "https://images.unsplash.com/photo-1609234656388-0ff363383899?fm=jpg&fit=max&w=2400&q=90",
+    "source_local_path": "media-originals/unsplash___photo-1609234656388-0ff363383899",
+    "source_width": 2400,
+    "source_height": 1350,
+    "source_content_type": "image/jpeg",
+    "source_bytes": 499206,
+    "source_sha256": "6e77e48e41903ec0c665fde7801773d4031bab24f6abf2b3e72797c0d37553c7",
+    "source_fetch": {
+      "url": "https://images.unsplash.com/photo-1609234656388-0ff363383899?fm=jpg&fit=max&w=2400&q=90",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 499206,
+      "sha256": "6e77e48e41903ec0c665fde7801773d4031bab24f6abf2b3e72797c0d37553c7",
+      "downloaded": true
+    },
+    "primary_used_url": "https://images.unsplash.com/photo-1609234656388-0ff363383899?auto=format&fit=crop&w=3840",
+    "primary_local_path": "assets/images/68872dcec58b-photo-1609234656388-0ff363383899.avif",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "gray computer monitor"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/community"
+    ],
+    "variant_count": 8,
+    "variant_urls": [
+      "https://images.unsplash.com/photo-1609234656388-0ff363383899?auto=format&fit=crop&w=1080",
+      "https://images.unsplash.com/photo-1609234656388-0ff363383899?auto=format&fit=crop&w=1440",
+      "https://images.unsplash.com/photo-1609234656388-0ff363383899?auto=format&fit=crop&w=1920",
+      "https://images.unsplash.com/photo-1609234656388-0ff363383899?auto=format&fit=crop&w=2880",
+      "https://images.unsplash.com/photo-1609234656388-0ff363383899?auto=format&fit=crop&w=360",
+      "https://images.unsplash.com/photo-1609234656388-0ff363383899?auto=format&fit=crop&w=3840",
+      "https://images.unsplash.com/photo-1609234656388-0ff363383899?auto=format&fit=crop&w=720",
+      "https://images.unsplash.com/photo-1609234656388-0ff363383899?auto=format&fit=crop&w=945"
+    ]
+  },
+  {
+    "number": 9,
+    "key": "unsplash:photo-1614354323500-851a6f7f60f8",
+    "source_filename": "photo-1614354323500-851a6f7f60f8",
+    "source_url": "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?fm=jpg&fit=max&w=2400&q=90",
+    "source_local_path": "media-originals/unsplash___photo-1614354323500-851a6f7f60f8",
+    "source_width": 2400,
+    "source_height": 1600,
+    "source_content_type": "image/jpeg",
+    "source_bytes": 653970,
+    "source_sha256": "6e8b754b7ae1273829d43a1a5eea0686b2acfd50f746ec6ffc16c764c63598ca",
+    "source_fetch": {
+      "url": "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?fm=jpg&fit=max&w=2400&q=90",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 653970,
+      "sha256": "6e8b754b7ae1273829d43a1a5eea0686b2acfd50f746ec6ffc16c764c63598ca",
+      "downloaded": true
+    },
+    "primary_used_url": "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?auto=format&fit=crop&w=1080&h=958",
+    "primary_local_path": "assets/images/9b191099616c-photo-1614354323500-851a6f7f60f8.avif",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "An industrial facility with sturdy structures and wide loading bays under a bright sky."
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/"
+    ],
+    "variant_count": 12,
+    "variant_urls": [
+      "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?auto=format&fit=crop&w=1080&h=958",
+      "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?auto=format&fit=crop&w=1212&h=720",
+      "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?auto=format&fit=crop&w=328&h=195",
+      "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?auto=format&fit=crop&w=328&h=291",
+      "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?auto=format&fit=crop&w=360&h=319",
+      "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?auto=format&fit=crop&w=606&h=360",
+      "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?auto=format&fit=crop&w=656&h=390",
+      "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?auto=format&fit=crop&w=656&h=582",
+      "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?auto=format&fit=crop&w=720&h=639",
+      "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?auto=format&fit=crop&w=861&h=511",
+      "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?auto=format&fit=crop&w=945&h=838",
+      "https://images.unsplash.com/photo-1614354323500-851a6f7f60f8?auto=format&fit=crop&w=984&h=585"
+    ]
+  },
+  {
+    "number": 10,
+    "key": "unsplash:photo-1633158829875-e5316a358c6f",
+    "source_filename": "photo-1633158829875-e5316a358c6f",
+    "source_url": "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?fm=jpg&fit=max&w=2400&q=90",
+    "source_local_path": "media-originals/unsplash___photo-1633158829875-e5316a358c6f",
+    "source_width": 2400,
+    "source_height": 1601,
+    "source_content_type": "image/jpeg",
+    "source_bytes": 315317,
+    "source_sha256": "e0d50b5b79a6b64c12f2297feae183b6cc01c8c180e099f5ef379f0c3cf5dffe",
+    "source_fetch": {
+      "url": "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?fm=jpg&fit=max&w=2400&q=90",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 315317,
+      "sha256": "e0d50b5b79a6b64c12f2297feae183b6cc01c8c180e099f5ef379f0c3cf5dffe",
+      "downloaded": true
+    },
+    "primary_used_url": "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?auto=format&fit=crop&w=1080&h=869",
+    "primary_local_path": "assets/images/ddefd490f402-photo-1633158829875-e5316a358c6f.avif",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "a glass jar filled with coins and a plant"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/community"
+    ],
+    "variant_count": 12,
+    "variant_urls": [
+      "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?auto=format&fit=crop&w=1080&h=869",
+      "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?auto=format&fit=crop&w=328&h=195",
+      "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?auto=format&fit=crop&w=328&h=264",
+      "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?auto=format&fit=crop&w=360&h=290",
+      "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?auto=format&fit=crop&w=437&h=260",
+      "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?auto=format&fit=crop&w=656&h=390",
+      "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?auto=format&fit=crop&w=656&h=528",
+      "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?auto=format&fit=crop&w=720&h=580",
+      "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?auto=format&fit=crop&w=861&h=512",
+      "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?auto=format&fit=crop&w=874&h=520",
+      "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?auto=format&fit=crop&w=945&h=761",
+      "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?auto=format&fit=crop&w=984&h=585"
+    ]
+  },
+  {
+    "number": 11,
+    "key": "unsplash:photo-1662076061409-44eb521c12e4",
+    "source_filename": "photo-1662076061409-44eb521c12e4",
+    "source_url": "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?fm=jpg&fit=max&w=2400&q=90",
+    "source_local_path": "media-originals/unsplash___photo-1662076061409-44eb521c12e4",
+    "source_width": 2400,
+    "source_height": 1800,
+    "source_content_type": "image/jpeg",
+    "source_bytes": 1076487,
+    "source_sha256": "c0cbe0864e26bdbaeee82a6c209d0e3bde0dd16676f526704e27930efcc42aed",
+    "source_fetch": {
+      "url": "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?fm=jpg&fit=max&w=2400&q=90",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 1076487,
+      "sha256": "c0cbe0864e26bdbaeee82a6c209d0e3bde0dd16676f526704e27930efcc42aed",
+      "downloaded": true
+    },
+    "primary_used_url": "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?auto=format&fit=crop&w=2222&h=1120",
+    "primary_local_path": "assets/images/c339e699d035-photo-1662076061409-44eb521c12e4.avif",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "a city next to the water"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/contact-for-real-estate-opportunities"
+    ],
+    "variant_count": 12,
+    "variant_urls": [
+      "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?auto=format&fit=crop&w=1080&h=1054",
+      "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?auto=format&fit=crop&w=1111&h=560",
+      "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?auto=format&fit=crop&w=2222&h=1120",
+      "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?auto=format&fit=crop&w=328&h=165",
+      "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?auto=format&fit=crop&w=328&h=320",
+      "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?auto=format&fit=crop&w=360&h=351",
+      "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?auto=format&fit=crop&w=656&h=331",
+      "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?auto=format&fit=crop&w=656&h=640",
+      "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?auto=format&fit=crop&w=720&h=702",
+      "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?auto=format&fit=crop&w=861&h=434",
+      "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?auto=format&fit=crop&w=945&h=922",
+      "https://images.unsplash.com/photo-1662076061409-44eb521c12e4?auto=format&fit=crop&w=984&h=496"
+    ]
+  },
+  {
+    "number": 12,
+    "key": "unsplash:photo-1677132017875-6b58bc884164",
+    "source_filename": "photo-1677132017875-6b58bc884164",
+    "source_url": "https://images.unsplash.com/photo-1677132017875-6b58bc884164?fm=jpg&fit=max&w=2400&q=90",
+    "source_local_path": "media-originals/unsplash___photo-1677132017875-6b58bc884164",
+    "source_width": 2400,
+    "source_height": 3200,
+    "source_content_type": "image/jpeg",
+    "source_bytes": 375739,
+    "source_sha256": "504b942bb27d58083918e633becf1610e78c3a954a3f4349cdf3d5c2e44cf90c",
+    "source_fetch": {
+      "url": "https://images.unsplash.com/photo-1677132017875-6b58bc884164?fm=jpg&fit=max&w=2400&q=90",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 375739,
+      "sha256": "504b942bb27d58083918e633becf1610e78c3a954a3f4349cdf3d5c2e44cf90c",
+      "downloaded": true
+    },
+    "primary_used_url": "https://images.unsplash.com/photo-1677132017875-6b58bc884164?auto=format&fit=crop&w=1212&h=1088",
+    "primary_local_path": "assets/images/6da39c8ed2cd-photo-1677132017875-6b58bc884164.avif",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "a person holding a small plant in their hands"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/"
+    ],
+    "variant_count": 12,
+    "variant_urls": [
+      "https://images.unsplash.com/photo-1677132017875-6b58bc884164?auto=format&fit=crop&w=1080&h=991",
+      "https://images.unsplash.com/photo-1677132017875-6b58bc884164?auto=format&fit=crop&w=1212&h=1088",
+      "https://images.unsplash.com/photo-1677132017875-6b58bc884164?auto=format&fit=crop&w=328&h=294",
+      "https://images.unsplash.com/photo-1677132017875-6b58bc884164?auto=format&fit=crop&w=328&h=301",
+      "https://images.unsplash.com/photo-1677132017875-6b58bc884164?auto=format&fit=crop&w=360&h=330",
+      "https://images.unsplash.com/photo-1677132017875-6b58bc884164?auto=format&fit=crop&w=606&h=544",
+      "https://images.unsplash.com/photo-1677132017875-6b58bc884164?auto=format&fit=crop&w=656&h=589",
+      "https://images.unsplash.com/photo-1677132017875-6b58bc884164?auto=format&fit=crop&w=656&h=602",
+      "https://images.unsplash.com/photo-1677132017875-6b58bc884164?auto=format&fit=crop&w=720&h=661",
+      "https://images.unsplash.com/photo-1677132017875-6b58bc884164?auto=format&fit=crop&w=861&h=773",
+      "https://images.unsplash.com/photo-1677132017875-6b58bc884164?auto=format&fit=crop&w=945&h=867",
+      "https://images.unsplash.com/photo-1677132017875-6b58bc884164?auto=format&fit=crop&w=984&h=883"
+    ]
+  },
+  {
+    "number": 13,
+    "key": "unsplash:photo-1689676740185-ad58fceb2ab2",
+    "source_filename": "photo-1689676740185-ad58fceb2ab2",
+    "source_url": "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?fm=jpg&fit=max&w=2400&q=90",
+    "source_local_path": "media-originals/unsplash___photo-1689676740185-ad58fceb2ab2",
+    "source_width": 2400,
+    "source_height": 1600,
+    "source_content_type": "image/jpeg",
+    "source_bytes": 637272,
+    "source_sha256": "4ac8ddb30254bb577914855ec24778de855d727dde9917d151878022b7eef06d",
+    "source_fetch": {
+      "url": "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?fm=jpg&fit=max&w=2400&q=90",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 637272,
+      "sha256": "4ac8ddb30254bb577914855ec24778de855d727dde9917d151878022b7eef06d",
+      "downloaded": true
+    },
+    "primary_used_url": "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?auto=format&fit=crop&w=1080&h=738",
+    "primary_local_path": "assets/images/8a5fccb7307a-photo-1689676740185-ad58fceb2ab2.avif",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "A modern residential building with clean lines set against a clear Nova Scotia sky."
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/"
+    ],
+    "variant_count": 12,
+    "variant_urls": [
+      "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?auto=format&fit=crop&w=1080&h=738",
+      "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?auto=format&fit=crop&w=1212&h=608",
+      "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?auto=format&fit=crop&w=328&h=165",
+      "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?auto=format&fit=crop&w=328&h=224",
+      "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?auto=format&fit=crop&w=360&h=246",
+      "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?auto=format&fit=crop&w=606&h=304",
+      "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?auto=format&fit=crop&w=656&h=329",
+      "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?auto=format&fit=crop&w=656&h=448",
+      "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?auto=format&fit=crop&w=720&h=492",
+      "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?auto=format&fit=crop&w=861&h=432",
+      "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?auto=format&fit=crop&w=945&h=645",
+      "https://images.unsplash.com/photo-1689676740185-ad58fceb2ab2?auto=format&fit=crop&w=984&h=494"
+    ]
+  },
+  {
+    "number": 14,
+    "key": "unsplash:photo-1764222233275-87dc016c11dc",
+    "source_filename": "photo-1764222233275-87dc016c11dc",
+    "source_url": "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?fm=jpg&fit=max&w=2400&q=90",
+    "source_local_path": "media-originals/unsplash___photo-1764222233275-87dc016c11dc",
+    "source_width": 2400,
+    "source_height": 1350,
+    "source_content_type": "image/jpeg",
+    "source_bytes": 1239319,
+    "source_sha256": "d3f12a7586ead335bfa10fb3346b016f68a291c7f4dd8d0c2fec3150c8abf86a",
+    "source_fetch": {
+      "url": "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?fm=jpg&fit=max&w=2400&q=90",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 1239319,
+      "sha256": "d3f12a7586ead335bfa10fb3346b016f68a291c7f4dd8d0c2fec3150c8abf86a",
+      "downloaded": true
+    },
+    "primary_used_url": "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?auto=format&fit=crop&w=1080&h=869",
+    "primary_local_path": "assets/images/edf1aaa8cd8e-photo-1764222233275-87dc016c11dc.avif",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Aerial view of a hillside with buildings and roads"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/community"
+    ],
+    "variant_count": 12,
+    "variant_urls": [
+      "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?auto=format&fit=crop&w=1080&h=869",
+      "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?auto=format&fit=crop&w=328&h=195",
+      "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?auto=format&fit=crop&w=328&h=264",
+      "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?auto=format&fit=crop&w=360&h=290",
+      "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?auto=format&fit=crop&w=437&h=260",
+      "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?auto=format&fit=crop&w=656&h=390",
+      "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?auto=format&fit=crop&w=656&h=528",
+      "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?auto=format&fit=crop&w=720&h=580",
+      "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?auto=format&fit=crop&w=861&h=512",
+      "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?auto=format&fit=crop&w=874&h=520",
+      "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?auto=format&fit=crop&w=945&h=761",
+      "https://images.unsplash.com/photo-1764222233275-87dc016c11dc?auto=format&fit=crop&w=984&h=585"
+    ]
+  },
+  {
+    "number": 15,
+    "key": "zyro:1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+    "source_filename": "1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+    "source_local_path": "media-originals/zyro___1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg.jpg",
+    "source_width": 3000,
+    "source_height": 1800,
+    "source_content_type": null,
+    "source_bytes": 446793,
+    "source_sha256": "5ad5aa1329e85f35a35d41d571f9728de84f6c63b7bed82ddaa62c2d99485f02",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "downloaded": true,
+      "bytes": 446793,
+      "sha256": "5ad5aa1329e85f35a35d41d571f9728de84f6c63b7bed82ddaa62c2d99485f02"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=2800,h=970,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+    "primary_local_path": "assets/images/e24257bc0442-1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg.jpg",
+    "width": 2800,
+    "height": 970,
+    "alt_texts": [
+      "Font View of Lifestyle Enclave which is a residential building under Plexus Development Group"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/",
+      "https://plexusdevelopmentgroup.ca/community",
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects",
+      "https://plexusdevelopmentgroup.ca/residential-construction"
+    ],
+    "variant_count": 32,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1194,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=355,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=609,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=733,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=749,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=778,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=779,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=825,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1054,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1159,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1678,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=499,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=2800,h=970,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=131,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=223,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=269,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=274,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=275,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=285,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=302,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=303,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=437,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=266,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=457,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=550,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=551,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=562,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=563,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=584,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=585,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=619,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=894,fit=crop/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg"
+    ]
+  },
+  {
+    "number": 16,
+    "key": "zyro:1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+    "source_filename": "1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+    "source_local_path": "media-originals/zyro___1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png.png",
+    "source_width": 1536,
+    "source_height": 1024,
+    "source_content_type": null,
+    "source_bytes": 3570720,
+    "source_sha256": "312ca3084f7ff86556b5fa1c0d40d7a729a0d7946422238b3f9acdfdc9879181",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "downloaded": true,
+      "bytes": 3570720,
+      "sha256": "312ca3084f7ff86556b5fa1c0d40d7a729a0d7946422238b3f9acdfdc9879181"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=2800,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+    "primary_local_path": "assets/images/7b7183236543-1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png.png",
+    "width": 2800,
+    "height": 1866,
+    "alt_texts": [],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects"
+    ],
+    "variant_count": 15,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=684,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=961,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=962,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=2800,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=250,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=251,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=511,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=512,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=513,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=514,fit=crop/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png"
+    ]
+  },
+  {
+    "number": 17,
+    "key": "zyro:_logo-of-the-crownvale-8dTteFntJjFrxYlS.png",
+    "source_filename": "_logo-of-the-crownvale-8dTteFntJjFrxYlS.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/_logo-of-the-crownvale-8dTteFntJjFrxYlS.png",
+    "source_local_path": "media-originals/zyro____logo-of-the-crownvale-8dTteFntJjFrxYlS.png.png",
+    "source_width": 500,
+    "source_height": 500,
+    "source_content_type": null,
+    "source_bytes": 62091,
+    "source_sha256": "77c8adbf617473b3a699df6d9cfb01995cfdf3d2a60daf247b266fe55a5b7ad1",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/_logo-of-the-crownvale-8dTteFntJjFrxYlS.png",
+      "downloaded": true,
+      "bytes": 62091,
+      "sha256": "77c8adbf617473b3a699df6d9cfb01995cfdf3d2a60daf247b266fe55a5b7ad1"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/DRpyQ9BauhckYzhd/_logo-of-the-crownvale-8dTteFntJjFrxYlS.png",
+    "primary_local_path": "assets/images/6d6e041d2a07-_logo-of-the-crownvale-8dTteFntJjFrxYlS.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Logo of the Crownvale which a residential building under Plexus Development Group"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/residential-construction"
+    ],
+    "variant_count": 8,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1000,fit=crop/DRpyQ9BauhckYzhd/_logo-of-the-crownvale-8dTteFntJjFrxYlS.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=945,fit=crop/DRpyQ9BauhckYzhd/_logo-of-the-crownvale-8dTteFntJjFrxYlS.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/_logo-of-the-crownvale-8dTteFntJjFrxYlS.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=347,fit=crop/DRpyQ9BauhckYzhd/_logo-of-the-crownvale-8dTteFntJjFrxYlS.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/DRpyQ9BauhckYzhd/_logo-of-the-crownvale-8dTteFntJjFrxYlS.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=709,fit=crop/DRpyQ9BauhckYzhd/_logo-of-the-crownvale-8dTteFntJjFrxYlS.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=749,fit=crop/DRpyQ9BauhckYzhd/_logo-of-the-crownvale-8dTteFntJjFrxYlS.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/DRpyQ9BauhckYzhd/_logo-of-the-crownvale-8dTteFntJjFrxYlS.png"
+    ]
+  },
+  {
+    "number": 18,
+    "key": "zyro:aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+    "source_filename": "aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+    "source_local_path": "media-originals/zyro___aerial-park2-5rdDyTQHOYlLtB5T.jpg.jpg",
+    "source_width": 3840,
+    "source_height": 2143,
+    "source_content_type": null,
+    "source_bytes": 1809572,
+    "source_sha256": "34b01012cc0d795f67a1650ac9034d9020194d4b52928a9376d76e3e114dfbe6",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+      "downloaded": true,
+      "bytes": 1809572,
+      "sha256": "34b01012cc0d795f67a1650ac9034d9020194d4b52928a9376d76e3e114dfbe6"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+    "primary_local_path": "assets/images/c0b12d135b67-aerial-park2-5rdDyTQHOYlLtB5T.jpg.jpg",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Parking Concept Plan"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects"
+    ],
+    "variant_count": 10,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1000,fit=crop/DRpyQ9BauhckYzhd/aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=784,fit=crop/DRpyQ9BauhckYzhd/aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1103,fit=crop/DRpyQ9BauhckYzhd/aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=287,fit=crop/DRpyQ9BauhckYzhd/aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/DRpyQ9BauhckYzhd/aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=588,fit=crop/DRpyQ9BauhckYzhd/aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=589,fit=crop/DRpyQ9BauhckYzhd/aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=749,fit=crop/DRpyQ9BauhckYzhd/aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/DRpyQ9BauhckYzhd/aerial-park2-5rdDyTQHOYlLtB5T.jpg"
+    ]
+  },
+  {
+    "number": 19,
+    "key": "zyro:aerial-perspective-nUha7EN5O2UYkukU.jpg",
+    "source_filename": "aerial-perspective-nUha7EN5O2UYkukU.jpg",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/aerial-perspective-nUha7EN5O2UYkukU.jpg",
+    "source_local_path": "media-originals/zyro___aerial-perspective-nUha7EN5O2UYkukU.jpg.jpg",
+    "source_width": 3840,
+    "source_height": 2143,
+    "source_content_type": null,
+    "source_bytes": 2032203,
+    "source_sha256": "479d873df4bf20ad803bcb280eac9d25164c5fd2c55acb651ee3136ed208b442",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/aerial-perspective-nUha7EN5O2UYkukU.jpg",
+      "downloaded": true,
+      "bytes": 2032203,
+      "sha256": "479d873df4bf20ad803bcb280eac9d25164c5fd2c55acb651ee3136ed208b442"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/aerial-perspective-nUha7EN5O2UYkukU.jpg",
+    "primary_local_path": "assets/images/732e52a0674a-aerial-perspective-nUha7EN5O2UYkukU.jpg.jpg",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Concept Plan"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects"
+    ],
+    "variant_count": 10,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1000,fit=crop/DRpyQ9BauhckYzhd/aerial-perspective-nUha7EN5O2UYkukU.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=784,fit=crop/DRpyQ9BauhckYzhd/aerial-perspective-nUha7EN5O2UYkukU.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1103,fit=crop/DRpyQ9BauhckYzhd/aerial-perspective-nUha7EN5O2UYkukU.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/aerial-perspective-nUha7EN5O2UYkukU.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=287,fit=crop/DRpyQ9BauhckYzhd/aerial-perspective-nUha7EN5O2UYkukU.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/DRpyQ9BauhckYzhd/aerial-perspective-nUha7EN5O2UYkukU.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=588,fit=crop/DRpyQ9BauhckYzhd/aerial-perspective-nUha7EN5O2UYkukU.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=589,fit=crop/DRpyQ9BauhckYzhd/aerial-perspective-nUha7EN5O2UYkukU.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=749,fit=crop/DRpyQ9BauhckYzhd/aerial-perspective-nUha7EN5O2UYkukU.jpg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/DRpyQ9BauhckYzhd/aerial-perspective-nUha7EN5O2UYkukU.jpg"
+    ]
+  },
+  {
+    "number": 20,
+    "key": "zyro:chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+    "source_filename": "chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+    "source_local_path": "media-originals/zyro___chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png.png",
+    "source_width": 1024,
+    "source_height": 1536,
+    "source_content_type": null,
+    "source_bytes": 2866276,
+    "source_sha256": "db19c6e0c66cb97f3f1c138f16df43932fc237eb3b69bacf923250047aae6fc9",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+      "downloaded": true,
+      "bytes": 2866276,
+      "sha256": "db19c6e0c66cb97f3f1c138f16df43932fc237eb3b69bacf923250047aae6fc9"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+    "primary_local_path": "assets/images/e68edf0b1797-chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Commercial Plaza and Self Storage Concept Plan"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects"
+    ],
+    "variant_count": 10,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1000,fit=crop/DRpyQ9BauhckYzhd/chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=784,fit=crop/DRpyQ9BauhckYzhd/chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1103,fit=crop/DRpyQ9BauhckYzhd/chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=287,fit=crop/DRpyQ9BauhckYzhd/chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/DRpyQ9BauhckYzhd/chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=588,fit=crop/DRpyQ9BauhckYzhd/chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=589,fit=crop/DRpyQ9BauhckYzhd/chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=749,fit=crop/DRpyQ9BauhckYzhd/chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/DRpyQ9BauhckYzhd/chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png"
+    ]
+  },
+  {
+    "number": 21,
+    "key": "zyro:commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+    "source_filename": "commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+    "source_local_path": "media-originals/zyro___commercialplaza2-0eGcBOlRPm8JOT3U.webp.webp",
+    "source_width": 1280,
+    "source_height": 1024,
+    "source_content_type": null,
+    "source_bytes": 194130,
+    "source_sha256": "561b3639f5d555259def7538de0ad6298dae181cb8f931e80cf31e0274031457",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+      "downloaded": true,
+      "bytes": 194130,
+      "sha256": "561b3639f5d555259def7538de0ad6298dae181cb8f931e80cf31e0274031457"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1122,fit=crop/DRpyQ9BauhckYzhd/commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+    "primary_local_path": "assets/images/1755994389ff-commercialplaza2-0eGcBOlRPm8JOT3U.webp.webp",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Lucasville Commercial building plan under Plexus Development Group"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/commercial-construction"
+    ],
+    "variant_count": 10,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1088,fit=crop/DRpyQ9BauhckYzhd/commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=798,fit=crop/DRpyQ9BauhckYzhd/commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=799,fit=crop/DRpyQ9BauhckYzhd/commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1122,fit=crop/DRpyQ9BauhckYzhd/commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1530,fit=crop/DRpyQ9BauhckYzhd/commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=292,fit=crop/DRpyQ9BauhckYzhd/commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=398,fit=crop/DRpyQ9BauhckYzhd/commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=399,fit=crop/DRpyQ9BauhckYzhd/commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=599,fit=crop/DRpyQ9BauhckYzhd/commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=816,fit=crop/DRpyQ9BauhckYzhd/commercialplaza2-0eGcBOlRPm8JOT3U.webp"
+    ]
+  },
+  {
+    "number": 22,
+    "key": "zyro:cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png",
+    "source_filename": "cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png",
+    "source_local_path": "media-originals/zyro___cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png.png",
+    "source_width": 1024,
+    "source_height": 1024,
+    "source_content_type": null,
+    "source_bytes": 1045754,
+    "source_sha256": "61710ed147407a9ca1c76ff412c5fa4163d5c87d96278033f45dbcc7ad2459f9",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png",
+      "downloaded": true,
+      "bytes": 1045754,
+      "sha256": "61710ed147407a9ca1c76ff412c5fa4163d5c87d96278033f45dbcc7ad2459f9"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1159,fit=crop/DRpyQ9BauhckYzhd/cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png",
+    "primary_local_path": "assets/images/799f2fc05846-cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/"
+    ],
+    "variant_count": 9,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=748,fit=crop/DRpyQ9BauhckYzhd/cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=749,fit=crop/DRpyQ9BauhckYzhd/cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=825,fit=crop/DRpyQ9BauhckYzhd/cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1159,fit=crop/DRpyQ9BauhckYzhd/cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=274,fit=crop/DRpyQ9BauhckYzhd/cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=302,fit=crop/DRpyQ9BauhckYzhd/cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=303,fit=crop/DRpyQ9BauhckYzhd/cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=561,fit=crop/DRpyQ9BauhckYzhd/cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=619,fit=crop/DRpyQ9BauhckYzhd/cornwalis-land-residenrtial-DxTV3mByEXRRUzgG.png"
+    ]
+  },
+  {
+    "number": 23,
+    "key": "zyro:cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png",
+    "source_filename": "cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png",
+    "source_local_path": "media-originals/zyro___cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png.png",
+    "source_width": 1536,
+    "source_height": 1024,
+    "source_content_type": null,
+    "source_bytes": 3640236,
+    "source_sha256": "1d961f381d78e5edb8bde83fda88f2426a4051b9f614a40ed91485e1899cbe5e",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png",
+      "downloaded": true,
+      "bytes": 3640236,
+      "sha256": "1d961f381d78e5edb8bde83fda88f2426a4051b9f614a40ed91485e1899cbe5e"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1124,fit=crop/DRpyQ9BauhckYzhd/cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png",
+    "primary_local_path": "assets/images/22610adfa1e7-cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Cornwalis Park Concept Plan under Plexus Development Group"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects"
+    ],
+    "variant_count": 8,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=697,fit=crop/DRpyQ9BauhckYzhd/cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=800,fit=crop/DRpyQ9BauhckYzhd/cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1124,fit=crop/DRpyQ9BauhckYzhd/cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=980,fit=crop/DRpyQ9BauhckYzhd/cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=255,fit=crop/DRpyQ9BauhckYzhd/cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=293,fit=crop/DRpyQ9BauhckYzhd/cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=523,fit=crop/DRpyQ9BauhckYzhd/cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=600,fit=crop/DRpyQ9BauhckYzhd/cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png"
+    ]
+  },
+  {
+    "number": 24,
+    "key": "zyro:economic-growth-1-5s0AaMGyWkkO0bfx.png",
+    "source_filename": "economic-growth-1-5s0AaMGyWkkO0bfx.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/economic-growth-1-5s0AaMGyWkkO0bfx.png",
+    "source_local_path": "media-originals/zyro___economic-growth-1-5s0AaMGyWkkO0bfx.png.png",
+    "source_width": 1024,
+    "source_height": 1024,
+    "source_content_type": null,
+    "source_bytes": 1335816,
+    "source_sha256": "3e5ba94ae9ad320fdc5616f29529310b63cf90b8eef2fccfd033a6adff5fa1c9",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/economic-growth-1-5s0AaMGyWkkO0bfx.png",
+      "downloaded": true,
+      "bytes": 1335816,
+      "sha256": "3e5ba94ae9ad320fdc5616f29529310b63cf90b8eef2fccfd033a6adff5fa1c9"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1457,fit=crop/DRpyQ9BauhckYzhd/economic-growth-1-5s0AaMGyWkkO0bfx.png",
+    "primary_local_path": "assets/images/71f0c308bea2-economic-growth-1-5s0AaMGyWkkO0bfx.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/"
+    ],
+    "variant_count": 7,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1457,fit=crop/DRpyQ9BauhckYzhd/economic-growth-1-5s0AaMGyWkkO0bfx.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=933,fit=crop/DRpyQ9BauhckYzhd/economic-growth-1-5s0AaMGyWkkO0bfx.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1312,fit=crop/DRpyQ9BauhckYzhd/economic-growth-1-5s0AaMGyWkkO0bfx.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=342,fit=crop/DRpyQ9BauhckYzhd/economic-growth-1-5s0AaMGyWkkO0bfx.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=534,fit=crop/DRpyQ9BauhckYzhd/economic-growth-1-5s0AaMGyWkkO0bfx.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=1093,fit=crop/DRpyQ9BauhckYzhd/economic-growth-1-5s0AaMGyWkkO0bfx.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=700,fit=crop/DRpyQ9BauhckYzhd/economic-growth-1-5s0AaMGyWkkO0bfx.png"
+    ]
+  },
+  {
+    "number": 25,
+    "key": "zyro:economic-growth-EcJqNidS7iCle2qt.png",
+    "source_filename": "economic-growth-EcJqNidS7iCle2qt.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/economic-growth-EcJqNidS7iCle2qt.png",
+    "source_local_path": "media-originals/zyro___economic-growth-EcJqNidS7iCle2qt.png.png",
+    "source_width": 1024,
+    "source_height": 1024,
+    "source_content_type": null,
+    "source_bytes": 1272548,
+    "source_sha256": "c3aba5d271a6ffd4b9a04078ad34bd1c95b00ad6138a3aa7f60a7728a528a92a",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/economic-growth-EcJqNidS7iCle2qt.png",
+      "downloaded": true,
+      "bytes": 1272548,
+      "sha256": "c3aba5d271a6ffd4b9a04078ad34bd1c95b00ad6138a3aa7f60a7728a528a92a"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1457,fit=crop/DRpyQ9BauhckYzhd/economic-growth-EcJqNidS7iCle2qt.png",
+    "primary_local_path": "assets/images/bb63bcd3f4f2-economic-growth-EcJqNidS7iCle2qt.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/"
+    ],
+    "variant_count": 7,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1457,fit=crop/DRpyQ9BauhckYzhd/economic-growth-EcJqNidS7iCle2qt.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=933,fit=crop/DRpyQ9BauhckYzhd/economic-growth-EcJqNidS7iCle2qt.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1312,fit=crop/DRpyQ9BauhckYzhd/economic-growth-EcJqNidS7iCle2qt.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=342,fit=crop/DRpyQ9BauhckYzhd/economic-growth-EcJqNidS7iCle2qt.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=534,fit=crop/DRpyQ9BauhckYzhd/economic-growth-EcJqNidS7iCle2qt.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=1093,fit=crop/DRpyQ9BauhckYzhd/economic-growth-EcJqNidS7iCle2qt.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=700,fit=crop/DRpyQ9BauhckYzhd/economic-growth-EcJqNidS7iCle2qt.png"
+    ]
+  },
+  {
+    "number": 26,
+    "key": "zyro:feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+    "source_filename": "feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+    "source_local_path": "media-originals/zyro___feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg.jpeg",
+    "source_width": 1824,
+    "source_height": 1088,
+    "source_content_type": null,
+    "source_bytes": 856035,
+    "source_sha256": "ed6fef0cd89f822d08bd3ccb83f26484c11e10b061a0ec21e94e3d104cfdf2a1",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "downloaded": true,
+      "bytes": 856035,
+      "sha256": "ed6fef0cd89f822d08bd3ccb83f26484c11e10b061a0ec21e94e3d104cfdf2a1"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1293,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+    "primary_local_path": "assets/images/967e14e09c3c-feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpe.jpeg",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Back view of Lifestyle Enclave which is a residential building under Plexus Development Group"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/",
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects",
+      "https://plexusdevelopmentgroup.ca/residential-construction"
+    ],
+    "variant_count": 30,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1194,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1375,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1444,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1944,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=733,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=749,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=919,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=920,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1054,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1293,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1678,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1932,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=2735,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=269,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=274,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=275,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=337,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=437,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=504,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=529,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=713,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=1031,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=1083,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=1459,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=550,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=551,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=562,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=563,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=690,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=894,fit=crop/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg"
+    ]
+  },
+  {
+    "number": 27,
+    "key": "zyro:generated/generated-PVgPNsxWiJ8pj86s.png",
+    "source_filename": "generated-PVgPNsxWiJ8pj86s.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+    "source_local_path": "media-originals/zyro___generated___generated-PVgPNsxWiJ8pj86s.png.png",
+    "source_width": 1024,
+    "source_height": 1024,
+    "source_content_type": null,
+    "source_bytes": 328620,
+    "source_sha256": "84e4e4fc3c3101b9376bcf112c86ad5c9738d3ae7ab03429ce20627c1d60c767",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "downloaded": true,
+      "bytes": 328620,
+      "sha256": "84e4e4fc3c3101b9376bcf112c86ad5c9738d3ae7ab03429ce20627c1d60c767"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1159,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+    "primary_local_path": "assets/images/7816ef9783c7-generated-PVgPNsxWiJ8pj86s.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Collaboration and Partnership",
+      "black blue and yellow textile"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/",
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects"
+    ],
+    "variant_count": 19,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=749,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=778,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=779,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=790,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=825,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1054,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1159,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=274,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=275,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=285,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=290,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=302,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=303,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=562,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=563,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=584,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=585,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=593,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=619,fit=crop/DRpyQ9BauhckYzhd/generated/generated-PVgPNsxWiJ8pj86s.png"
+    ]
+  },
+  {
+    "number": 28,
+    "key": "zyro:generated/generated-vTcj2CEnBuyWBZ4s.png",
+    "source_filename": "generated-vTcj2CEnBuyWBZ4s.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/generated/generated-vTcj2CEnBuyWBZ4s.png",
+    "source_local_path": "media-originals/zyro___generated___generated-vTcj2CEnBuyWBZ4s.png.png",
+    "source_width": 1024,
+    "source_height": 1024,
+    "source_content_type": null,
+    "source_bytes": 506714,
+    "source_sha256": "54e252c4f7152f463320e55c9d13f3bb7431bf276eb09bc80eeb5149c1a193f0",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/generated/generated-vTcj2CEnBuyWBZ4s.png",
+      "downloaded": true,
+      "bytes": 506714,
+      "sha256": "54e252c4f7152f463320e55c9d13f3bb7431bf276eb09bc80eeb5149c1a193f0"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1124,fit=crop/DRpyQ9BauhckYzhd/generated/generated-vTcj2CEnBuyWBZ4s.png",
+    "primary_local_path": "assets/images/617a9266c0cc-generated-vTcj2CEnBuyWBZ4s.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/"
+    ],
+    "variant_count": 9,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=778,fit=crop/DRpyQ9BauhckYzhd/generated/generated-vTcj2CEnBuyWBZ4s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=779,fit=crop/DRpyQ9BauhckYzhd/generated/generated-vTcj2CEnBuyWBZ4s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=800,fit=crop/DRpyQ9BauhckYzhd/generated/generated-vTcj2CEnBuyWBZ4s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1124,fit=crop/DRpyQ9BauhckYzhd/generated/generated-vTcj2CEnBuyWBZ4s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=285,fit=crop/DRpyQ9BauhckYzhd/generated/generated-vTcj2CEnBuyWBZ4s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=293,fit=crop/DRpyQ9BauhckYzhd/generated/generated-vTcj2CEnBuyWBZ4s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=584,fit=crop/DRpyQ9BauhckYzhd/generated/generated-vTcj2CEnBuyWBZ4s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=585,fit=crop/DRpyQ9BauhckYzhd/generated/generated-vTcj2CEnBuyWBZ4s.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=600,fit=crop/DRpyQ9BauhckYzhd/generated/generated-vTcj2CEnBuyWBZ4s.png"
+    ]
+  },
+  {
+    "number": 29,
+    "key": "zyro:green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png",
+    "source_filename": "green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png",
+    "source_local_path": "media-originals/zyro___green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png.png",
+    "source_width": 1080,
+    "source_height": 1080,
+    "source_content_type": null,
+    "source_bytes": 2000396,
+    "source_sha256": "9cbf5dcc59f51e6ef045512a94e016a45376a33044635b430b340f49b5a25b90",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png",
+      "downloaded": true,
+      "bytes": 2000396,
+      "sha256": "9cbf5dcc59f51e6ef045512a94e016a45376a33044635b430b340f49b5a25b90"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1159,fit=crop/DRpyQ9BauhckYzhd/green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png",
+    "primary_local_path": "assets/images/5146b1243ce1-green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Commercial and Storage concept plan of Greenwood"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/commercial-construction"
+    ],
+    "variant_count": 9,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=744,fit=crop/DRpyQ9BauhckYzhd/green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=825,fit=crop/DRpyQ9BauhckYzhd/green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1046,fit=crop/DRpyQ9BauhckYzhd/green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1159,fit=crop/DRpyQ9BauhckYzhd/green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=273,fit=crop/DRpyQ9BauhckYzhd/green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=302,fit=crop/DRpyQ9BauhckYzhd/green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=303,fit=crop/DRpyQ9BauhckYzhd/green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=558,fit=crop/DRpyQ9BauhckYzhd/green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=619,fit=crop/DRpyQ9BauhckYzhd/green-modrern-land-for-sale-promoion-facebook-video-ul56FKPwM1lJSdPV.png"
+    ]
+  },
+  {
+    "number": 30,
+    "key": "zyro:logo-of-the-amiora-HaKXjjxN5eqAZr12.png",
+    "source_filename": "logo-of-the-amiora-HaKXjjxN5eqAZr12.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/logo-of-the-amiora-HaKXjjxN5eqAZr12.png",
+    "source_local_path": "media-originals/zyro___logo-of-the-amiora-HaKXjjxN5eqAZr12.png.png",
+    "source_width": 500,
+    "source_height": 500,
+    "source_content_type": null,
+    "source_bytes": 62543,
+    "source_sha256": "6709e9cdbd1add06c1e21a1e6fe820488611a0eae4db8abc64fa50c1f4b22b70",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/logo-of-the-amiora-HaKXjjxN5eqAZr12.png",
+      "downloaded": true,
+      "bytes": 62543,
+      "sha256": "6709e9cdbd1add06c1e21a1e6fe820488611a0eae4db8abc64fa50c1f4b22b70"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-amiora-HaKXjjxN5eqAZr12.png",
+    "primary_local_path": "assets/images/04d827de6b84-logo-of-the-amiora-HaKXjjxN5eqAZr12.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "The logo of residential building under The Amiora"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/residential-construction"
+    ],
+    "variant_count": 8,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1000,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-amiora-HaKXjjxN5eqAZr12.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=945,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-amiora-HaKXjjxN5eqAZr12.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-amiora-HaKXjjxN5eqAZr12.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=347,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-amiora-HaKXjjxN5eqAZr12.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-amiora-HaKXjjxN5eqAZr12.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=709,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-amiora-HaKXjjxN5eqAZr12.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=749,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-amiora-HaKXjjxN5eqAZr12.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-amiora-HaKXjjxN5eqAZr12.png"
+    ]
+  },
+  {
+    "number": 31,
+    "key": "zyro:logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png",
+    "source_filename": "logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png",
+    "source_local_path": "media-originals/zyro___logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png.png",
+    "source_width": 500,
+    "source_height": 500,
+    "source_content_type": null,
+    "source_bytes": 50916,
+    "source_sha256": "e31d8c8c4dbb2544aaf7e45edabe1bde28e40df06104014c984c90941e1a4d9e",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png",
+      "downloaded": true,
+      "bytes": 50916,
+      "sha256": "e31d8c8c4dbb2544aaf7e45edabe1bde28e40df06104014c984c90941e1a4d9e"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=709,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png",
+    "primary_local_path": "assets/images/cb2c63816c4d-logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Logo of residential building The Chamelias under Plexus Development Group"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/residential-construction"
+    ],
+    "variant_count": 8,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1000,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=945,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=347,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=709,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=749,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/DRpyQ9BauhckYzhd/logo-of-the-the-chamelias-nrpr4EqxVdOKMrHr.png"
+    ]
+  },
+  {
+    "number": 32,
+    "key": "zyro:novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png",
+    "source_filename": "novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png",
+    "source_local_path": "media-originals/zyro___novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png.png",
+    "source_width": 2160,
+    "source_height": 2160,
+    "source_content_type": null,
+    "source_bytes": 110158,
+    "source_sha256": "aeb3784c0ad2263235cd9bfad73741a28201073a4f74f72a6126be9516af2db3",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png",
+      "downloaded": true,
+      "bytes": 110158,
+      "sha256": "aeb3784c0ad2263235cd9bfad73741a28201073a4f74f72a6126be9516af2db3"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png",
+    "primary_local_path": "assets/images/8ed37c123d5b-novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/residential-construction"
+    ],
+    "variant_count": 8,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1000,fit=crop/DRpyQ9BauhckYzhd/novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=945,fit=crop/DRpyQ9BauhckYzhd/novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=347,fit=crop/DRpyQ9BauhckYzhd/novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/DRpyQ9BauhckYzhd/novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=709,fit=crop/DRpyQ9BauhckYzhd/novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=749,fit=crop/DRpyQ9BauhckYzhd/novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/DRpyQ9BauhckYzhd/novabella-retirement-homes-3-A8XOwPJwBiLgCnnh.png"
+    ]
+  },
+  {
+    "number": 33,
+    "key": "zyro:plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+    "source_filename": "plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+    "source_local_path": "media-originals/zyro___plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png.png",
+    "source_width": 1024,
+    "source_height": 768,
+    "source_content_type": null,
+    "source_bytes": 68266,
+    "source_sha256": "20161ec5aba99ed24eeb95df530c49b633e340594314334dfd72196677614cb2",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+      "downloaded": true,
+      "bytes": 68266,
+      "sha256": "20161ec5aba99ed24eeb95df530c49b633e340594314334dfd72196677614cb2"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1084,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+    "primary_local_path": "assets/images/8855a50a092f-plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Plexus Development Group Structure and Projects"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects"
+    ],
+    "variant_count": 11,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=771,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=772,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=825,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1084,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1159,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=2800,h=2108,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=283,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=302,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=303,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=579,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=619,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-group-structure-WGRNXE8sNqaiKXa3.png"
+    ]
+  },
+  {
+    "number": 34,
+    "key": "zyro:plexus-development-group-location-XVpwu4FsJZtAEfzr.png",
+    "source_filename": "plexus-development-group-location-XVpwu4FsJZtAEfzr.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/plexus-development-group-location-XVpwu4FsJZtAEfzr.png",
+    "source_local_path": "media-originals/zyro___plexus-development-group-location-XVpwu4FsJZtAEfzr.png.png",
+    "source_width": 1024,
+    "source_height": 768,
+    "source_content_type": null,
+    "source_bytes": 503686,
+    "source_sha256": "f27442be235273eff35c6db51ce7f66470a67278939e633f98b4d3d3954276de",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/plexus-development-group-location-XVpwu4FsJZtAEfzr.png",
+      "downloaded": true,
+      "bytes": 503686,
+      "sha256": "f27442be235273eff35c6db51ce7f66470a67278939e633f98b4d3d3954276de"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=939,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-location-XVpwu4FsJZtAEfzr.png",
+    "primary_local_path": "assets/images/3d3fb55e9674-plexus-development-group-location-XVpwu4FsJZtAEfzr.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Plexus Development Group Projects locations"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects"
+    ],
+    "variant_count": 9,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=668,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-location-XVpwu4FsJZtAEfzr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=800,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-location-XVpwu4FsJZtAEfzr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1124,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-location-XVpwu4FsJZtAEfzr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=939,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-location-XVpwu4FsJZtAEfzr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=245,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-location-XVpwu4FsJZtAEfzr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=293,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-location-XVpwu4FsJZtAEfzr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=501,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-location-XVpwu4FsJZtAEfzr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=502,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-location-XVpwu4FsJZtAEfzr.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=600,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-location-XVpwu4FsJZtAEfzr.png"
+    ]
+  },
+  {
+    "number": 35,
+    "key": "zyro:plexus-development-group-logo-kE4VIwWTgpX9FgOk.png",
+    "source_filename": "plexus-development-group-logo-kE4VIwWTgpX9FgOk.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/plexus-development-group-logo-kE4VIwWTgpX9FgOk.png",
+    "source_local_path": "media-originals/zyro___plexus-development-group-logo-kE4VIwWTgpX9FgOk.png.png",
+    "source_width": 2160,
+    "source_height": 2160,
+    "source_content_type": null,
+    "source_bytes": 136782,
+    "source_sha256": "e6504c6c8fbeed21e2da19b67dd62a5321ca6a59d403763f1b87721cde96f8d4",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/plexus-development-group-logo-kE4VIwWTgpX9FgOk.png",
+      "downloaded": true,
+      "bytes": 136782,
+      "sha256": "e6504c6c8fbeed21e2da19b67dd62a5321ca6a59d403763f1b87721cde96f8d4"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/DRpyQ9BauhckYzhd/plexus-development-group-logo-kE4VIwWTgpX9FgOk.png",
+    "primary_local_path": "assets/images/fbb00cf9304c-plexus-development-group-logo-kE4VIwWTgpX9FgOk.png.png",
+    "width": 192,
+    "height": 192,
+    "alt_texts": [
+      "Plexus Development Group logo"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/",
+      "https://plexusdevelopmentgroup.ca/commercial-construction",
+      "https://plexusdevelopmentgroup.ca/community",
+      "https://plexusdevelopmentgroup.ca/contact-for-real-estate-opportunities",
+      "https://plexusdevelopmentgroup.ca/industrial-construction",
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects",
+      "https://plexusdevelopmentgroup.ca/residential-construction"
+    ],
+    "variant_count": 5,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=16,h=16,fit=crop,f=png/DRpyQ9BauhckYzhd/plexus-development-group-logo-kE4VIwWTgpX9FgOk.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=180,h=180,fit=crop,f=png/DRpyQ9BauhckYzhd/plexus-development-group-logo-kE4VIwWTgpX9FgOk.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/DRpyQ9BauhckYzhd/plexus-development-group-logo-kE4VIwWTgpX9FgOk.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=32,h=32,fit=crop,f=png/DRpyQ9BauhckYzhd/plexus-development-group-logo-kE4VIwWTgpX9FgOk.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/DRpyQ9BauhckYzhd/plexus-development-group-logo-kE4VIwWTgpX9FgOk.png"
+    ]
+  },
+  {
+    "number": 36,
+    "key": "zyro:plexus-storage-RYPKnjDlHx9Mjej8.png",
+    "source_filename": "plexus-storage-RYPKnjDlHx9Mjej8.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+    "source_local_path": "media-originals/zyro___plexus-storage-RYPKnjDlHx9Mjej8.png.png",
+    "source_width": 2160,
+    "source_height": 2160,
+    "source_content_type": null,
+    "source_bytes": 129676,
+    "source_sha256": "3a545fd1a259fa5debbf75a12a8513997016ace71ec6e0c35237b4d1dc0a354b",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+      "downloaded": true,
+      "bytes": 129676,
+      "sha256": "3a545fd1a259fa5debbf75a12a8513997016ace71ec6e0c35237b4d1dc0a354b"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1679,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+    "primary_local_path": "assets/images/92b89e45f09e-plexus-storage-RYPKnjDlHx9Mjej8.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Gold color Plexus Storage Logo in Dark blue background color"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/industrial-construction",
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects"
+    ],
+    "variant_count": 14,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1195,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=790,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=847,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=978,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1190,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1679,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=290,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=310,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=358,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=438,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=593,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=635,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=733,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=896,fit=crop/DRpyQ9BauhckYzhd/plexus-storage-RYPKnjDlHx9Mjej8.png"
+    ]
+  },
+  {
+    "number": 37,
+    "key": "zyro:the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png",
+    "source_filename": "the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png",
+    "source_local_path": "media-originals/zyro___the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png.png",
+    "source_width": 1024,
+    "source_height": 1024,
+    "source_content_type": null,
+    "source_bytes": 176025,
+    "source_sha256": "a5efbe789141fd8873cf9359938a36720804e970e3b74612d86c0d75a99b9c84",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png",
+      "downloaded": true,
+      "bytes": 176025,
+      "sha256": "a5efbe789141fd8873cf9359938a36720804e970e3b74612d86c0d75a99b9c84"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1103,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png",
+    "primary_local_path": "assets/images/2c4b2bc0cb34-the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "The Parks of Cole Harbour"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects"
+    ],
+    "variant_count": 10,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1000,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=784,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1103,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=287,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=588,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=589,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=749,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-2-Ftztk0mo4b49mBBF.png"
+    ]
+  },
+  {
+    "number": 38,
+    "key": "zyro:the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png",
+    "source_filename": "the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png",
+    "source_local_path": "media-originals/zyro___the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png.png",
+    "source_width": 2160,
+    "source_height": 2160,
+    "source_content_type": null,
+    "source_bytes": 167374,
+    "source_sha256": "093d52dd1758e92400da0d64b132ebed98e1ce049e927b7a1623f64d891ed42b",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png",
+      "downloaded": true,
+      "bytes": 167374,
+      "sha256": "093d52dd1758e92400da0d64b132ebed98e1ce049e927b7a1623f64d891ed42b"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png",
+    "primary_local_path": "assets/images/26eda7b489ce-the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "The logo of Parks of Cole Harbour"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/residential-construction"
+    ],
+    "variant_count": 8,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1000,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=945,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=347,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=709,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=749,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/DRpyQ9BauhckYzhd/the-parks-of-cole-harbour-SH0JOlTLhBFFTYVy.png"
+    ]
+  },
+  {
+    "number": 39,
+    "key": "zyro:the-sables-logo-2-QpmuFakyxRcrZKwj.png",
+    "source_filename": "the-sables-logo-2-QpmuFakyxRcrZKwj.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/the-sables-logo-2-QpmuFakyxRcrZKwj.png",
+    "source_local_path": "media-originals/zyro___the-sables-logo-2-QpmuFakyxRcrZKwj.png.png",
+    "source_width": 2160,
+    "source_height": 2160,
+    "source_content_type": null,
+    "source_bytes": 99141,
+    "source_sha256": "91364d6591e1ae806e2dfbc580f3c78d26db02bea39d34ed22b115265786a484",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/the-sables-logo-2-QpmuFakyxRcrZKwj.png",
+      "downloaded": true,
+      "bytes": 99141,
+      "sha256": "91364d6591e1ae806e2dfbc580f3c78d26db02bea39d34ed22b115265786a484"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/the-sables-logo-2-QpmuFakyxRcrZKwj.png",
+    "primary_local_path": "assets/images/a136aff04ae4-the-sables-logo-2-QpmuFakyxRcrZKwj.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "THE SABLES UNDER PLEXUS DEVELOPMENT GROUP"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/residential-construction"
+    ],
+    "variant_count": 8,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1000,fit=crop/DRpyQ9BauhckYzhd/the-sables-logo-2-QpmuFakyxRcrZKwj.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=945,fit=crop/DRpyQ9BauhckYzhd/the-sables-logo-2-QpmuFakyxRcrZKwj.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/the-sables-logo-2-QpmuFakyxRcrZKwj.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=347,fit=crop/DRpyQ9BauhckYzhd/the-sables-logo-2-QpmuFakyxRcrZKwj.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/DRpyQ9BauhckYzhd/the-sables-logo-2-QpmuFakyxRcrZKwj.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=709,fit=crop/DRpyQ9BauhckYzhd/the-sables-logo-2-QpmuFakyxRcrZKwj.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=749,fit=crop/DRpyQ9BauhckYzhd/the-sables-logo-2-QpmuFakyxRcrZKwj.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/DRpyQ9BauhckYzhd/the-sables-logo-2-QpmuFakyxRcrZKwj.png"
+    ]
+  },
+  {
+    "number": 40,
+    "key": "zyro:the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+    "source_filename": "the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+    "source_local_path": "media-originals/zyro___the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png.png",
+    "source_width": 500,
+    "source_height": 500,
+    "source_content_type": null,
+    "source_bytes": 25857,
+    "source_sha256": "d1a552382f639ce362468072d10bd2522644341d2a82a20d64b92a7139942a7e",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+      "downloaded": true,
+      "bytes": 25857,
+      "sha256": "d1a552382f639ce362468072d10bd2522644341d2a82a20d64b92a7139942a7e"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=709,fit=crop/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+    "primary_local_path": "assets/images/ee307fcaa69f-the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png.png",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "The logo of Sarnaaz Valley which is a residential building under Plexus Development Group"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects",
+      "https://plexusdevelopmentgroup.ca/residential-construction"
+    ],
+    "variant_count": 13,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1000,fit=crop/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=784,fit=crop/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=945,fit=crop/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1103,fit=crop/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=287,fit=crop/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=347,fit=crop/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=588,fit=crop/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=589,fit=crop/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=709,fit=crop/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=749,fit=crop/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/DRpyQ9BauhckYzhd/the-sarnaaz-valley-logo-13HZQenqAnAsVF8Z.png"
+    ]
+  },
+  {
+    "number": 41,
+    "key": "zyro:whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
+    "source_filename": "whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
+    "source_local_path": "media-originals/zyro___whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg.jpeg",
+    "source_width": 1080,
+    "source_height": 810,
+    "source_content_type": null,
+    "source_bytes": 129377,
+    "source_sha256": "40e51dd56b09abc9ac73a160cc3063f8ddc1d893256dc2601e25a2711b1fb974",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
+      "downloaded": true,
+      "bytes": 129377,
+      "sha256": "40e51dd56b09abc9ac73a160cc3063f8ddc1d893256dc2601e25a2711b1fb974"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1103,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
+    "primary_local_path": "assets/images/40e51dd56b09-whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg.jpeg",
+    "width": 1080,
+    "height": 810,
+    "alt_texts": [],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/community"
+    ],
+    "variant_count": 10,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1000,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=784,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1103,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=287,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=588,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=589,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=749,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg"
+    ]
+  },
+  {
+    "number": 42,
+    "key": "zyro:whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
+    "source_filename": "whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
+    "source_local_path": "media-originals/zyro___whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg.jpeg",
+    "source_width": 1080,
+    "source_height": 814,
+    "source_content_type": null,
+    "source_bytes": 113022,
+    "source_sha256": "e777f20cdd446ff6824300573a6d27a66d30446c234d25c533a596b9570a045c",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
+      "downloaded": true,
+      "bytes": 113022,
+      "sha256": "e777f20cdd446ff6824300573a6d27a66d30446c234d25c533a596b9570a045c"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1000,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
+    "primary_local_path": "assets/images/7fd2e819d696-whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg.jpeg",
+    "width": null,
+    "height": null,
+    "alt_texts": [],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/community"
+    ],
+    "variant_count": 10,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1000,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=784,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1103,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1406,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=287,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=366,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=588,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=589,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=749,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=750,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg"
+    ]
+  },
+  {
+    "number": 43,
+    "key": "zyro:whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+    "source_filename": "whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+    "source_url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+    "source_local_path": "media-originals/zyro___whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg.jpeg",
+    "source_width": 1536,
+    "source_height": 2048,
+    "source_content_type": null,
+    "source_bytes": 465754,
+    "source_sha256": "9811a46a77231cf39e978402657a7fb8a7b71343e57ef292b62159b88c6ee7ff",
+    "source_fetch": {
+      "url": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "downloaded": true,
+      "bytes": 465754,
+      "sha256": "9811a46a77231cf39e978402657a7fb8a7b71343e57ef292b62159b88c6ee7ff"
+    },
+    "primary_used_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1366,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+    "primary_local_path": "assets/images/5c83441dcadf-whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg.jpeg",
+    "width": null,
+    "height": null,
+    "alt_texts": [
+      "Apartment, townhouse and store concept plan of Plexus Development Group",
+      "Residential, Commercial and Industrial Concept Plan Plexus Development Group"
+    ],
+    "referenced_by": [
+      "https://plexusdevelopmentgroup.ca/commercial-construction",
+      "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects"
+    ],
+    "variant_count": 29,
+    "variant_urls": [
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=733,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=749,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=778,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=779,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=825,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=869,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=971,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1054,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1159,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1222,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=1366,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=269,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=274,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=275,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=285,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=302,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=303,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=318,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=356,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=550,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=551,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=562,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=563,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=584,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=585,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=619,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=651,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=652,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg",
+      "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=729,fit=crop/DRpyQ9BauhckYzhd/whatsapp-image-2026-02-06-at-8.16.59-pm-My1ILctsKGpGV0VG.jpeg"
+    ]
+  }
+]

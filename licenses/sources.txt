@@ -1,0 +1,11 @@
+Switzer-400.woff2	https://cdn.fontshare.com/wf/BLNB4FAQFNK56DWWNF7PMGTCOTZHOEII/ST3WKSSDMBK2MIQQO3MAVYWLF4FTOLFV/6IN5WOLRCYP4G4MOCOHOMXNON6Q7MDAR.woff2
+Switzer-500.woff2	https://cdn.fontshare.com/wf/OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S/WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS/6XPIMU23OJVRY676OG5YVJMWEHWICATX.woff2
+Switzer-600.woff2	https://cdn.fontshare.com/wf/5SZVFDB7V52TI6ULVC6J3WQZQCIZVDV5/ODYPSTCUDMKSTYIPTV4CLQ7URIK7XYBJ/YS3VPNVO4B3TOJMEXDGFZQ4TLZGGSRZC.woff2
+Switzer-700.woff2	https://cdn.fontshare.com/wf/HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q/YDPDINVT673XLXNSTMLG4JNCZZMVVNPN/Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.woff2
+SpecialGothic-700-Latin.woff2	https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4VZ7yS8BPQ.woff2
+Switzer-ITF-FFL-source.html	https://www.fontshare.com/licenses/itf-ffl
+Special Gothic specimen: https://fonts.google.com/specimen/Special+Gothic
+Special Gothic OFL: https://raw.githubusercontent.com/google/fonts/main/ofl/specialgothic/OFL.txt
+Switzer official specimen: https://www.fontshare.com/fonts/switzer
+Switzer official API: https://api.fontshare.com/v2/css?f[]=switzer@400,500,600,700&display=swap
+Switzer license text extracted unmodified from official download: https://api.fontshare.com/v2/fonts/download/switzer (Switzer_Complete/License/FFL.txt)

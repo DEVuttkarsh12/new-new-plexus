@@ -1,0 +1,211 @@
+[
+  {
+    "url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/ClientHead.B_ndYL9q.js",
+    "final_url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/ClientHead.B_ndYL9q.js",
+    "status": 200,
+    "content_type": "text/javascript",
+    "bytes": 1069,
+    "sha256": "7b03d1b804714c45a3c1937d9e742a6a8f8143e2fe9cf475e8f5cebc632d2490",
+    "referenced_by_rendered_pages": [
+      "commercial",
+      "community",
+      "contact",
+      "home",
+      "industrial",
+      "projects",
+      "residential"
+    ],
+    "downloaded": true,
+    "local_path": "assets/scripts/7b03d1b80471-ClientHead.B_ndYL9q.js"
+  },
+  {
+    "url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/Integrations.DwtjY5kP.js",
+    "final_url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/Integrations.DwtjY5kP.js",
+    "status": 200,
+    "content_type": "text/javascript",
+    "bytes": 3006,
+    "sha256": "a5c94bbbb6d8b95763307e064483541e0483736723b7bf736a1a0cea6d68c046",
+    "referenced_by_rendered_pages": [
+      "commercial",
+      "community",
+      "contact",
+      "home",
+      "industrial",
+      "projects",
+      "residential"
+    ],
+    "downloaded": true,
+    "local_path": "assets/scripts/a5c94bbbb6d8-Integrations.DwtjY5kP.js"
+  },
+  {
+    "url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/Page.CltzsMcK.js",
+    "final_url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/Page.CltzsMcK.js",
+    "status": 200,
+    "content_type": "text/javascript",
+    "bytes": 1250778,
+    "sha256": "a4490f6446d7a9342d22de796621443a4f7fd22b79a7f05ce9e0c0b56122a28a",
+    "referenced_by_rendered_pages": [
+      "commercial",
+      "community",
+      "contact",
+      "home",
+      "industrial",
+      "projects",
+      "residential"
+    ],
+    "downloaded": true,
+    "local_path": "assets/scripts/a4490f6446d7-Page.CltzsMcK.js"
+  },
+  {
+    "url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/_plugin-vue_export-helper.BDNMzG2s.js",
+    "final_url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/_plugin-vue_export-helper.BDNMzG2s.js",
+    "status": 200,
+    "content_type": "text/javascript",
+    "bytes": 84,
+    "sha256": "27e87fe62aa760227b7529576953d8314891fd2aec28e0a3f03aece406f2d7d7",
+    "referenced_by_rendered_pages": [
+      "commercial",
+      "community",
+      "contact",
+      "home",
+      "industrial",
+      "projects",
+      "residential"
+    ],
+    "downloaded": true,
+    "local_path": "assets/scripts/27e87fe62aa7-_plugin-vue_export-helper.BDNMzG2s.js"
+  },
+  {
+    "url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/addDocumentElements.DOPjVytT.js",
+    "final_url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/addDocumentElements.DOPjVytT.js",
+    "status": 200,
+    "content_type": "text/javascript",
+    "bytes": 9283,
+    "sha256": "bb1a0b20612b51eea9b090a2834ef79c2d64b10fd5c6188f55a3bb8821c86e64",
+    "referenced_by_rendered_pages": [
+      "commercial",
+      "community",
+      "contact",
+      "home",
+      "industrial",
+      "projects",
+      "residential"
+    ],
+    "downloaded": true,
+    "local_path": "assets/scripts/bb1a0b20612b-addDocumentElements.DOPjVytT.js"
+  },
+  {
+    "url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/app.CWYr6apd.js",
+    "final_url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/app.CWYr6apd.js",
+    "status": 200,
+    "content_type": "text/javascript",
+    "bytes": 28077,
+    "sha256": "e4f6aeea636ea2df8c7bc4ffa0ff49b99f095b8690678288802d1c5e815b70f1",
+    "referenced_by_rendered_pages": [
+      "commercial",
+      "community",
+      "contact",
+      "home",
+      "industrial",
+      "projects",
+      "residential"
+    ],
+    "downloaded": true,
+    "local_path": "assets/scripts/e4f6aeea636e-app.CWYr6apd.js"
+  },
+  {
+    "url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/client.BcRgvofP.js",
+    "final_url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/client.BcRgvofP.js",
+    "status": 200,
+    "content_type": "text/javascript",
+    "bytes": 1371,
+    "sha256": "ef359c82c18041221c80c81d328a664b912fe9e3c75a652ddc12c14a3f92257d",
+    "referenced_by_rendered_pages": [
+      "commercial",
+      "community",
+      "contact",
+      "home",
+      "industrial",
+      "projects",
+      "residential"
+    ],
+    "downloaded": true,
+    "local_path": "assets/scripts/ef359c82c180-client.BcRgvofP.js"
+  },
+  {
+    "url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/cookieconsent.esm.rntHZaGc.js",
+    "final_url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/cookieconsent.esm.rntHZaGc.js",
+    "status": 200,
+    "content_type": "text/javascript",
+    "bytes": 20906,
+    "sha256": "96187e8407d7a19843220db1d14ef46b6f52723e729251b6ebaecd97ed23d00f",
+    "referenced_by_rendered_pages": [
+      "commercial",
+      "community",
+      "contact",
+      "home",
+      "industrial",
+      "projects",
+      "residential"
+    ],
+    "downloaded": true,
+    "local_path": "assets/scripts/96187e8407d7-cookieconsent.esm.rntHZaGc.js"
+  },
+  {
+    "url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/preload-helper.4YRWf0qh.js",
+    "final_url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/preload-helper.4YRWf0qh.js",
+    "status": 200,
+    "content_type": "text/javascript",
+    "bytes": 16053,
+    "sha256": "b22a21378f2e9ca4c6b5e3342d2b6ebc51c73eafc1b7cfffe1788ccc57ce5876",
+    "referenced_by_rendered_pages": [
+      "commercial",
+      "community",
+      "contact",
+      "home",
+      "industrial",
+      "projects",
+      "residential"
+    ],
+    "downloaded": true,
+    "local_path": "assets/scripts/b22a21378f2e-preload-helper.4YRWf0qh.js"
+  },
+  {
+    "url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/rolldown-runtime.QTnfLwEv.js",
+    "final_url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/rolldown-runtime.QTnfLwEv.js",
+    "status": 200,
+    "content_type": "text/javascript",
+    "bytes": 694,
+    "sha256": "5db5ba82eef00d1dee7e86e663098c9427d01183a88d357437daff295aec3e75",
+    "referenced_by_rendered_pages": [
+      "commercial",
+      "community",
+      "contact",
+      "home",
+      "industrial",
+      "projects",
+      "residential"
+    ],
+    "downloaded": true,
+    "local_path": "assets/scripts/5db5ba82eef0-rolldown-runtime.QTnfLwEv.js"
+  },
+  {
+    "url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/runtime-core.esm-bundler.DaA7U_NZ.js",
+    "final_url": "https://plexusdevelopmentgroup.ca/_astro-1785432754733/runtime-core.esm-bundler.DaA7U_NZ.js",
+    "status": 200,
+    "content_type": "text/javascript",
+    "bytes": 75957,
+    "sha256": "945c05358e674562f21468da22691608a86d2233a99bfc28439b3399b312bda8",
+    "referenced_by_rendered_pages": [
+      "commercial",
+      "community",
+      "contact",
+      "home",
+      "industrial",
+      "projects",
+      "residential"
+    ],
+    "downloaded": true,
+    "local_path": "assets/scripts/945c05358e67-runtime-core.esm-bundler.DaA7U_NZ.js"
+  }
+]

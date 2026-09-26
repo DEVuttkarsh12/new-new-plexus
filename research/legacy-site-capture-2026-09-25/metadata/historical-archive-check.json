@@ -1,0 +1,7 @@
+{
+  "checked_at": "2026-09-25",
+  "provider": "Internet Archive CDX API",
+  "query": "https://web.archive.org/cdx/search/cdx?url=plexusdevelopmentgroup.ca/*&output=json&filter=statuscode:200&filter=mimetype:text/html&fl=timestamp,original,statuscode,digest&collapse=digest&from=2020&to=2026",
+  "result": [],
+  "interpretation": "No public HTML captures were returned by this query. This does not rule out excluded, deleted, non-indexed, or later snapshots."
+}

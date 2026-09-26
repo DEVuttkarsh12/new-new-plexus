@@ -1,0 +1,47 @@
+{
+  "captured_at": "2026-09-25",
+  "html_pages": 7,
+  "raw_html_bytes": {
+    "home": 274350,
+    "industrial-construction": 74015,
+    "contact-for-real-estate-opportunities": 90264,
+    "community": 174674,
+    "commercial-construction": 108702,
+    "residential-construction": 131819,
+    "nova-scotia-construction-projects": 263350
+  },
+  "raw_html_total_bytes": 1117174,
+  "static_resource_url_count": 661,
+  "unique_static_local_files": 617,
+  "runtime_javascript_url_count": 11,
+  "unique_image_sources": 43,
+  "image_sources_by_origin": {
+    "zyrosite": 29,
+    "unsplash": 13,
+    "pexels": 1
+  },
+  "hero_video": {
+    "duration_seconds": 20.833333,
+    "width": 2732,
+    "height": 1440,
+    "frame_rate": 24,
+    "codec": "H.264",
+    "pixel_format": "yuv420p",
+    "bytes": 32086497,
+    "audio": false
+  },
+  "external_link_targets": 5,
+  "internal_link_targets": 7,
+  "full_page_screenshots": 7,
+  "screenshot_viewport_width": 1440,
+  "screenshot_heights": {
+    "home": 7996,
+    "projects": 8226,
+    "residential": 3712,
+    "commercial": 2905,
+    "industrial": 1213,
+    "community": 5936,
+    "contact": 2274
+  },
+  "archive_bytes_approximate": 187000000
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "page": "commercial",
+    "dom_bytes": 112862,
+    "links": 20,
+    "images": 9,
+    "media": 0,
+    "forms": 1,
+    "site_network_requests": 59,
+    "runtime_urls_not_in_static_inventory": 13
+  },
+  {
+    "page": "community",
+    "dom_bytes": 181641,
+    "links": 16,
+    "images": 21,
+    "media": 0,
+    "forms": 1,
+    "site_network_requests": 81,
+    "runtime_urls_not_in_static_inventory": 13
+  },
+  {
+    "page": "contact",
+    "dom_bytes": 93914,
+    "links": 16,
+    "images": 4,
+    "media": 0,
+    "forms": 2,
+    "site_network_requests": 49,
+    "runtime_urls_not_in_static_inventory": 13
+  },
+  {
+    "page": "home",
+    "dom_bytes": 283786,
+    "links": 20,
+    "images": 27,
+    "media": 1,
+    "forms": 1,
+    "site_network_requests": 101,
+    "runtime_urls_not_in_static_inventory": 13
+  },
+  {
+    "page": "industrial",
+    "dom_bytes": 76842,
+    "links": 20,
+    "images": 4,
+    "media": 0,
+    "forms": 0,
+    "site_network_requests": 49,
+    "runtime_urls_not_in_static_inventory": 13
+  },
+  {
+    "page": "projects",
+    "dom_bytes": 272623,
+    "links": 20,
+    "images": 35,
+    "media": 0,
+    "forms": 0,
+    "site_network_requests": 115,
+    "runtime_urls_not_in_static_inventory": 13
+  },
+  {
+    "page": "residential",
+    "dom_bytes": 136987,
+    "links": 17,
+    "images": 20,
+    "media": 0,
+    "forms": 1,
+    "site_network_requests": 82,
+    "runtime_urls_not_in_static_inventory": 12
+  }
+]

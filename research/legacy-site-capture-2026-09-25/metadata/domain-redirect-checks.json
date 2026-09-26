@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-09-25T12:49:19Z",
+  "results": [
+    {
+      "input": "http://plexusdevelopmentgroup.ca/",
+      "status": 301,
+      "location": "https://plexusdevelopmentgroup.ca/",
+      "server": "hcdn"
+    },
+    {
+      "input": "https://www.plexusdevelopmentgroup.ca/",
+      "status": 301,
+      "location": "https://plexusdevelopmentgroup.ca/",
+      "server": "hcdn"
+    },
+    {
+      "input": "https://plexusdevelopmentgroup.ca",
+      "status": 200,
+      "canonical_host": "https://plexusdevelopmentgroup.ca/",
+      "last_modified": "Thu, 30 Jul 2026 17:32:45 GMT",
+      "etag": "\"1491323baedffaefbd27143f82e8aa85\"",
+      "server": "hcdn"
+    }
+  ]
+}

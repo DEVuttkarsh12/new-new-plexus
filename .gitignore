@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Local tooling state
+.openai/*.local.json
+.openai/*metrics*
+
+# ---------------------------------------------------------------------------
+# Research archive: binaries excluded
+# ---------------------------------------------------------------------------
+# research/legacy-site-capture-2026-09-25/ holds a full capture of the
+# PREVIOUS plexusdevelopmentgroup.ca site. The written evidence and the capture
+# scripts are versioned, because every unverified claim on the current site is
+# traced back to them.
+#
+# The captured binaries are not. They are third-party media (a Pexels film,
+# Unsplash stock photography, the municipality's planning PDF) whose
+# redistribution rights have not been confirmed, and they add ~105 MB to a
+# repository that otherwise contains one website. They are reproducible with
+# the capture scripts in the same folder.
+research/legacy-site-capture-2026-09-25/assets/
+research/legacy-site-capture-2026-09-25/chrome-netlogs/
+research/legacy-site-capture-2026-09-25/media-contact-sheets/
+research/legacy-site-capture-2026-09-25/media-originals/
+research/legacy-site-capture-2026-09-25/full-page-screenshots/
+research/legacy-site-capture-2026-09-25/external-references/*.pdf
+research/legacy-site-capture-2026-09-25/SHA256SUMS
+research/legacy-site-capture-2026-09-25/legacy-hero-video-contact-sheet.jpg
+research/legacy-site-capture-2026-09-25/legacy-pages-contact-sheet.jpg

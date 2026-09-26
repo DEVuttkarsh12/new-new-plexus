@@ -1,0 +1,228 @@
+[
+  {
+    "filename": "logo.jpg",
+    "label": "Plexus Development Group original logo",
+    "kind": "Original gold logo on navy square",
+    "sourcePage": "https://plexusdevelopmentgroup.ca/",
+    "directUrl": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=scale-down/DRpyQ9BauhckYzhd/plexus-development-group-logo-kE4VIwWTgpX9FgOk.png",
+    "width": 1920,
+    "height": 1920,
+    "format": "JPEG"
+  },
+  {
+    "filename": "lifestyle-front.jpg",
+    "label": "Lifestyle Enclave front elevation",
+    "kind": "Architectural rendering",
+    "sourcePage": "https://plexusdevelopmentgroup.ca/residential-construction",
+    "directUrl": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=scale-down/DRpyQ9BauhckYzhd/1367pockwockroadexterior_sent2025-06-23-GsBPEUz1sh09d2jk.jpg",
+    "width": 1920,
+    "height": 1152,
+    "format": "JPEG"
+  },
+  {
+    "filename": "lifestyle-back.jpg",
+    "label": "Lifestyle Enclave rear elevation",
+    "kind": "Architectural rendering",
+    "sourcePage": "https://plexusdevelopmentgroup.ca/residential-construction",
+    "directUrl": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=scale-down/DRpyQ9BauhckYzhd/feab79c7-0ee7-410f-a1b9-e5e81b75083b_4_5005_c_nero_ai_image_upscaler_photo_face-fdNiT5y4s4oupX7G.jpeg",
+    "width": 1824,
+    "height": 1088,
+    "format": "JPEG"
+  },
+  {
+    "filename": "mineville-concept.png",
+    "label": "Notting Hill / Two River Subdivision, Mineville",
+    "kind": "Illustrated master plan; 73 acres and 216 planned units described on source page",
+    "sourcePage": "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects",
+    "directUrl": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=scale-down/DRpyQ9BauhckYzhd/1cf48558-881d-42b0-a857-c41a656883cf-YB13Re789LA4A51V.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "filename": "cornwallis-concept.png",
+    "label": "Cornwallis Park",
+    "kind": "Illustrated concept plan; 240-acre development concept",
+    "sourcePage": "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects",
+    "directUrl": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=scale-down/DRpyQ9BauhckYzhd/cornwallis-concept-plan-1-w9sIsqHAd1vR1upi.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG"
+  },
+  {
+    "filename": "parking-concept.jpg",
+    "label": "Park and residential community concept",
+    "kind": "Architectural concept rendering; source calls this Parking Concept Plan without named project",
+    "sourcePage": "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects",
+    "directUrl": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=scale-down/DRpyQ9BauhckYzhd/aerial-park2-5rdDyTQHOYlLtB5T.jpg",
+    "width": 1920,
+    "height": 1071,
+    "format": "JPEG"
+  },
+  {
+    "filename": "aerial-concept.jpg",
+    "label": "Residential community aerial concept",
+    "kind": "Architectural concept rendering; source calls this Concept Plan without named project",
+    "sourcePage": "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects",
+    "directUrl": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=scale-down/DRpyQ9BauhckYzhd/aerial-perspective-nUha7EN5O2UYkukU.jpg",
+    "width": 1920,
+    "height": 1071,
+    "format": "JPEG"
+  },
+  {
+    "filename": "halifax-waterfront.mp4",
+    "label": "Halifax waterfront across the harbour",
+    "kind": "Optimized Halifax establishing film, 1600 x 900",
+    "sourcePage": "https://pixabay.com/videos/harbour-building-port-ocean-harbor-48067/",
+    "directUrl": "https://cdn.pixabay.com/video/2020/08/25/48067-453650560_large.mp4",
+    "format": "MP4 / H.264",
+    "note": "No text or audio. Published by MaxMedyk under the Pixabay Content License."
+  },
+  {
+    "filename": "halifax-waterfront-mobile.mp4",
+    "label": "Halifax waterfront across the harbour",
+    "kind": "Phone crop of the licensed Halifax establishing film, 720 x 1280",
+    "sourcePage": "https://pixabay.com/videos/harbour-building-port-ocean-harbor-48067/",
+    "directUrl": "https://cdn.pixabay.com/video/2020/08/25/48067-453650560_large.mp4",
+    "format": "MP4 / H.264",
+    "note": "No text or audio. Published by MaxMedyk under the Pixabay Content License."
+  },
+  {
+    "filename": "halifax-waterfront.webp",
+    "label": "Halifax waterfront film poster",
+    "kind": "Desktop poster frame from the licensed Halifax establishing film",
+    "sourcePage": "https://pixabay.com/videos/harbour-building-port-ocean-harbor-48067/",
+    "format": "WEBP",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "filename": "halifax-waterfront-mobile.webp",
+    "label": "Halifax waterfront film poster",
+    "kind": "Phone poster frame from the licensed Halifax establishing film",
+    "sourcePage": "https://pixabay.com/videos/harbour-building-port-ocean-harbor-48067/",
+    "format": "WEBP",
+    "width": 720,
+    "height": 1280
+  },
+  {
+    "filename": "pavneet-singh.webp",
+    "label": "Pavneet Singh",
+    "kind": "Cropped official portrait with source graphic text removed from view",
+    "sourcePage": "https://realtorpavneetsingh.ca/",
+    "directUrl": "https://assets.zyrosite.com/cdn-cgi/image/format%3Dauto%2Cw%3D768%2Ch%3D762%2Cfit%3Dcrop/crLkORlvYVMKzm8Y/70b5143a-263a-4e3c-9721-540c26db5020-0wKCvXuhsn60RH4N.jpg",
+    "format": "WEBP",
+    "width": 423,
+    "height": 762
+  },
+  {
+    "filename": "lifestyle-drone.webp",
+    "label": "Lifestyle Enclave construction aerial",
+    "kind": "Genuine drone image of the active development",
+    "sourcePage": "https://lifestyleenclave.ca/",
+    "directUrl": "https://lifestyleenclave.ca/wp-content/themes/lifestyle-enclave/assets/official/drone-hero-poster.webp",
+    "width": 1920,
+    "height": 1080,
+    "format": "WEBP"
+  },
+  {
+    "filename": "lifestyle-north.webp",
+    "label": "Lifestyle Enclave north elevation and main arrival",
+    "kind": "Official architectural rendering",
+    "sourcePage": "https://lifestyleenclave.ca/",
+    "directUrl": "https://lifestyleenclave.ca/wp-content/themes/lifestyle-enclave/assets/official/exterior-north.webp",
+    "width": 2400,
+    "height": 1350,
+    "format": "WEBP"
+  },
+  {
+    "filename": "lifestyle-west.webp",
+    "label": "Lifestyle Enclave west elevation",
+    "kind": "Official architectural rendering",
+    "sourcePage": "https://lifestyleenclave.ca/",
+    "directUrl": "https://lifestyleenclave.ca/wp-content/themes/lifestyle-enclave/assets/official/exterior-west.webp",
+    "width": 2400,
+    "height": 1350,
+    "format": "WEBP"
+  },
+  {
+    "filename": "lifestyle-south.webp",
+    "label": "Lifestyle Enclave landscaped south elevation",
+    "kind": "Official architectural rendering",
+    "sourcePage": "https://lifestyleenclave.ca/",
+    "directUrl": "https://lifestyleenclave.ca/wp-content/themes/lifestyle-enclave/assets/official/exterior-south.webp",
+    "width": 2400,
+    "height": 1350,
+    "format": "WEBP"
+  },
+  {
+    "filename": "lifestyle-lobby.webp",
+    "label": "Lifestyle Enclave lobby and arrival area",
+    "kind": "Official architectural rendering",
+    "sourcePage": "https://lifestyleenclave.ca/",
+    "directUrl": "https://lifestyleenclave.ca/wp-content/themes/lifestyle-enclave/assets/official/lobby-arrival.webp",
+    "width": 4772,
+    "height": 2684,
+    "format": "WEBP"
+  },
+  {
+    "filename": "lifestyle-kitchen.webp",
+    "label": "Furnished kitchen and living area",
+    "kind": "Supplied representative residence photography; not verified as a photo inside completed Lifestyle Enclave",
+    "sourcePage": "https://lifestyleenclave.ca/",
+    "directUrl": "https://lifestyleenclave.ca/wp-content/themes/lifestyle-enclave/assets/residences/residence-kitchen-living.webp",
+    "width": 1361,
+    "height": 1001,
+    "format": "WEBP"
+  },
+  {
+    "filename": "plexus-overview.mp4",
+    "label": "Lifestyle Enclave construction footage",
+    "kind": "Optimized official construction overview, 1280 x 720",
+    "sourcePage": "https://lifestyleenclave.ca/",
+    "directUrl": "https://lifestyleenclave.ca/wp-content/themes/lifestyle-enclave/assets/official/drone-overview.mp4",
+    "format": "MP4 / H.264",
+    "note": "Silent footage. Capture date not stated by source."
+  },
+  {
+    "filename": "hero-sky.png",
+    "label": "Decorative blue sky background",
+    "kind": "Generated decorative background without buildings, property or text",
+    "source": "Created for this redesign on September 12, 2026",
+    "width": 1672,
+    "height": 941,
+    "format": "PNG"
+  },
+  {
+    "filename": "wilmot-concept.webp",
+    "label": "Wilmot commercial plaza and self-storage concept",
+    "kind": "Legacy concept visualization; title band cropped to remove a source typo",
+    "sourcePage": "https://plexusdevelopmentgroup.ca/commercial-construction",
+    "directUrl": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/chatgpt-image-feb-8-2026-06_14_20-pm-RjzMsdSQH44yZXhq.png",
+    "width": 1024,
+    "height": 1286,
+    "format": "WEBP",
+    "note": "Concept only. Not an approved plan, construction record or statement of current project status."
+  },
+  {
+    "filename": "lucasville-concept.webp",
+    "label": "Lucasville medical-retail concept",
+    "kind": "Legacy concept visualization with illustrative tenant labels",
+    "sourcePage": "https://plexusdevelopmentgroup.ca/commercial-construction",
+    "directUrl": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/commercialplaza2-0eGcBOlRPm8JOT3U.webp",
+    "width": 1280,
+    "height": 1024,
+    "format": "WEBP",
+    "note": "Concept only. Visible tenant names are illustrative and are not lease or opening commitments."
+  },
+  {
+    "filename": "og-image.png",
+    "label": "Social sharing card",
+    "kind": "1200 x 630 Open Graph and Twitter card generated for this website",
+    "source": "Composed September 26, 2026 from the project logo, display serif and the site palette",
+    "width": 1200,
+    "height": 630,
+    "format": "PNG",
+    "note": "Composed artwork. Uses the original logo mark and self-hosted fonts only."
+  }
+]

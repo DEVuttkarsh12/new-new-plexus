@@ -1,0 +1,97 @@
+{
+  "https://www.facebook.com/": [
+    {
+      "page": "https://plexusdevelopmentgroup.ca/",
+      "text": "",
+      "href": "https://www.facebook.com/"
+    },
+    {
+      "page": "https://plexusdevelopmentgroup.ca/commercial-construction",
+      "text": "",
+      "href": "https://www.facebook.com/"
+    },
+    {
+      "page": "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects",
+      "text": "",
+      "href": "https://www.facebook.com/"
+    },
+    {
+      "page": "https://plexusdevelopmentgroup.ca/industrial-construction",
+      "text": "",
+      "href": "https://www.facebook.com/"
+    }
+  ],
+  "https://www.instagram.com/": [
+    {
+      "page": "https://plexusdevelopmentgroup.ca/",
+      "text": "",
+      "href": "https://www.instagram.com/"
+    },
+    {
+      "page": "https://plexusdevelopmentgroup.ca/commercial-construction",
+      "text": "",
+      "href": "https://www.instagram.com/"
+    },
+    {
+      "page": "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects",
+      "text": "",
+      "href": "https://www.instagram.com/"
+    },
+    {
+      "page": "https://plexusdevelopmentgroup.ca/industrial-construction",
+      "text": "",
+      "href": "https://www.instagram.com/"
+    }
+  ],
+  "https://www.linkedin.com/": [
+    {
+      "page": "https://plexusdevelopmentgroup.ca/",
+      "text": "",
+      "href": "https://www.linkedin.com/"
+    },
+    {
+      "page": "https://plexusdevelopmentgroup.ca/commercial-construction",
+      "text": "",
+      "href": "https://www.linkedin.com/"
+    },
+    {
+      "page": "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects",
+      "text": "",
+      "href": "https://www.linkedin.com/"
+    },
+    {
+      "page": "https://plexusdevelopmentgroup.ca/industrial-construction",
+      "text": "",
+      "href": "https://www.linkedin.com/"
+    }
+  ],
+  "https://twitter.com/": [
+    {
+      "page": "https://plexusdevelopmentgroup.ca/",
+      "text": "",
+      "href": "https://twitter.com/"
+    },
+    {
+      "page": "https://plexusdevelopmentgroup.ca/commercial-construction",
+      "text": "",
+      "href": "https://twitter.com/"
+    },
+    {
+      "page": "https://plexusdevelopmentgroup.ca/nova-scotia-construction-projects",
+      "text": "",
+      "href": "https://twitter.com/"
+    },
+    {
+      "page": "https://plexusdevelopmentgroup.ca/industrial-construction",
+      "text": "",
+      "href": "https://twitter.com/"
+    }
+  ],
+  "https://lifestyleenclave.ca/": [
+    {
+      "page": "https://plexusdevelopmentgroup.ca/residential-construction",
+      "text": "Learn More",
+      "href": "https://lifestyleenclave.ca/"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# This is a private review build. Set LAUNCH = True in generate_site.py
+# and change SITE_ORIGIN to the production domain before going live.

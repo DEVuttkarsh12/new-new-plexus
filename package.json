@@ -1,0 +1,11 @@
+{
+  "name": "plexus-development-preview",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --config vite.config.mjs"
+  },
+  "devDependencies": {
+    "vite": "8.0.13"
+  }
+}
