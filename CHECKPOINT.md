@@ -1,7 +1,7 @@
 # CHECKPOINT
 
 Resume point for the Plexus Development Group website.
-Last updated September 26, 2026, at the end of the GitHub push session.
+Last updated September 26, 2026, at the end of the checkpoint-refresh session.
 
 Read this file first, then `Context.md` for the full durable project record.
 
@@ -28,7 +28,7 @@ Current state:
 - 28 assets, 20 MB
 - 104 route/width combinations audited with zero critical findings
 - Every page has a unique description, canonical link and Open Graph tags
-- 2 commits on `main`, clean tree, in sync with the remote
+- 3 commits on `main`, clean tree, in sync with the remote
 - No unverified legacy claim is presented as approved fact
 
 ## 2. Non-negotiable rules
