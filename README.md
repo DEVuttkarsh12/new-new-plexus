@@ -4,6 +4,8 @@ A complete responsive website for Plexus Development Group, presented as a Halif
 
 Start with `CHECKPOINT.md` for the current state and open client questions, then `Context.md` for the full project record.
 
+Source: https://github.com/DEVuttkarsh12/new-new-plexus
+
 The site contains thirteen static routes. The seven primary destinations match the previous site's navigation:
 
 - Homepage

@@ -186,6 +186,12 @@ The archive records what the public legacy site stated. It does not prove owners
 
 ## 12. Session mechanics
 
-This directory is not a Git repository. Nothing is committed and nothing is pushed. That is now the biggest structural risk: thirteen routes of hand-built HTML with no version history. Initializing Git before further structural work is strongly advised.
+This project is a Git repository, initialised on September 26, 2026 and pushed to:
+
+- `https://github.com/DEVuttkarsh12/new-new-plexus` (public, branch `main`)
+
+Regenerate the HTML before committing any change to the generator, project data, CSS or JavaScript, so the committed `dist/` always matches its sources.
+
+The research archive's captured binaries are deliberately untracked. See `.gitignore` for the rationale and the exact list. A fresh clone contains the written reports, metadata and capture scripts but not the media; re-run the capture scripts to rebuild it.
 
 QA tooling lives in `/tmp/opencode/` and is disposable. It includes a full-page and viewport capture harness, a selector-based section capture, a mobile-menu prober, and a route/width accessibility and layout sweep. Recreate if needed; not part of the project.
