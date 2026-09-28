@@ -108,8 +108,8 @@ def residential_hero():return '''<section class="hero estate-hero group-hero" ar
   <div class="estate-shade" aria-hidden="true"></div>
   <div class="estate-copy">
     <p class="estate-overline estate-reveal">BUILDING · DEVELOPMENT · NOVA SCOTIA</p>
-    <h1 id="estate-title"><span class="estate-title-line"><span class="estate-reveal">Building Nova Scotia</span></span><span class="estate-title-line"><span class="estate-reveal"><em>from the ground up.</em></span></span></h1>
-    <p class="estate-description estate-reveal">Plexus brings land, planning and project delivery together to shape homes, workplaces and lasting places across Nova Scotia.</p><a class="estate-link estate-reveal" href="/projects/">See what we’re building <span aria-hidden="true">↗</span></a>
+    <h1 id="estate-title"><span class="estate-title-line"><span class="estate-reveal">Building</span></span><span class="estate-title-line"><span class="estate-reveal"><em>Nova Scotia.</em></span></span></h1>
+    <p class="estate-description estate-reveal">From the ground up, Plexus brings land, planning and project delivery together to shape homes, workplaces and lasting places across Nova Scotia.</p><a class="estate-link estate-reveal" href="/projects/">See what we’re building <span aria-hidden="true">↗</span></a>
   </div>
   <div class="estate-foot estate-reveal">
     <div class="estate-project"><small>Halifax, Nova Scotia</small><span>Plexus Development Group</span><small>Atlantic Canada outlook</small></div>
