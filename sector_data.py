@@ -82,9 +82,9 @@ STRUCTURE_NOTES = [
 
 RESIDENTIAL_HERO = (
     'RESIDENTIAL',
-    'Homes crafted for<br>the way Nova Scotia lives.',
-    'Multi-unit buildings, single-family subdivisions and mixed communities shaped around '
-    'how people actually want to live, in a province where demand keeps outpacing supply.',
+    'Homes built for<br>the way Nova Scotia lives.',
+    'Residential building shaped around how people live, from multi-unit homes to single-family '
+    'neighbourhoods and mixed communities across Nova Scotia.',
 )
 
 RESIDENTIAL_INTRO = (
@@ -95,9 +95,9 @@ RESIDENTIAL_INTRO = (
 )
 
 RESIDENTIAL_TYPES = [
-    ('01', 'Multi-unit apartment buildings', 'Rental and ownership communities built for sustained, long-term operation rather than short-term turnover.'),
-    ('02', 'Single-family subdivisions', 'Master-planned low-density neighbourhoods with generous lots, green space and walkable internal routes.'),
-    ('03', 'Mixed residential communities', 'Neighbourhoods that combine housing types with shared open space and everyday amenities.'),
+    ('01', 'Multi-unit apartment buildings', 'Rental and ownership communities planned for everyday comfort, shared amenities and sustained long-term use rather than short-term turnover.'),
+    ('02', 'Single-family subdivisions', 'Master-planned, low-density neighbourhoods with generous lots, green space and walkable internal routes.'),
+    ('03', 'Mixed residential communities', 'Places that bring different housing types together with shared open space and everyday amenities.'),
     ('04', 'Affordable-housing initiatives', 'A stated focus area. Stated as an intention and not tied to a verified approved project.'),
     ('05', 'Senior and retirement living', 'Senior-living and retirement-oriented housing, including the Novabella Retirement Home name carried from earlier material.'),
 ]
@@ -110,12 +110,12 @@ RESIDENTIAL_SERVICES = [
 ]
 
 RESIDENTIAL_APPROACH = [
-    ('Livability over density', 'The legacy position is explicit that homes are judged on how they are lived in, not on units per acre alone. Green space, walking routes and everyday services sit alongside the unit count.'),
-    ('Durable construction', 'Financial discipline and conservative leverage are named as priorities, with an emphasis on assets intended to be held rather than flipped.'),
-    ('Repeatable systems', 'Measured growth and repeatable systems, so each community informs the next instead of starting from nothing.'),
+    ('Livability in every plan', 'Livability is the measure, not units per acre alone. Green space, walking routes and everyday services sit alongside the home count.'),
+    ('Built for long-term use', 'Earlier company material names financial discipline and conservative leverage as priorities, with an intent to hold assets for the long term rather than flip them.'),
+    ('Learn from every build', 'Measured growth and repeatable systems allow each community to inform the next.'),
 ]
 
-RESIDENTIAL_PIPELINE_HEADING = ('THE RESIDENTIAL PORTFOLIO', 'Homes now, and<br><em>homes ahead.</em>',
+RESIDENTIAL_PIPELINE_HEADING = ('RESIDENTIAL BUILDING PROGRAM', 'Homes now, and<br><em>homes ahead.</em>',
                                 'One community under construction, one master-planned community in planning, '
                                 'and a wider set of names carried forward from earlier public material.')
 
@@ -131,15 +131,14 @@ RESIDENTIAL_PIPELINE_NOTE = (
 
 COMMERCIAL_HERO = (
     'COMMERCIAL',
-    'Spaces designed<br>for business.',
-    'Commercial development framed as an enabler: population growth, employment hubs and the '
-    'infrastructure a working region needs in order to keep growing.',
+    'Spaces built<br>for business.',
+    'Commercial building supports the local businesses, services and employment that help a region grow.',
 )
 
 COMMERCIAL_INTRO = (
-    'Commercial work is treated as infrastructure rather than speculation. The question is not what '
-    'fills a plaza, it is what a community needs in order to function: somewhere to work, somewhere to '
-    'shop, somewhere to gather, and somewhere to stay when the day is over.',
+    'Commercial building is part of a community’s infrastructure. It starts with what a place needs rather '
+    'than speculation: somewhere to work, shop, gather and stay. Each format is considered alongside local homes, '
+    'jobs and infrastructure.',
 )
 
 COMMERCIAL_TYPES = [
@@ -230,23 +229,21 @@ COMMERCIAL_PROJECTS = [
 
 INDUSTRIAL_HERO = (
     'INDUSTRIAL',
-    'Durable space for<br>a working region.',
-    'Industrial parks, warehousing, flex space, self-storage and logistics, built for businesses that need to '
-    'keep running rather than businesses chasing a cycle.',
+    'Space to build<br>a working region.',
+    'Industrial parks, warehousing, flex space, self-storage and logistics for the businesses that keep Nova Scotia moving.',
 )
 
 INDUSTRIAL_INTRO = (
-    'A working region needs somewhere to work. Plexus treats industrial and logistics space as part of the same '
-    'connected system as housing and commercial space, because employment land and residential land are planned '
-    'together, not separately.',
+    'Industrial building is part of the same connected system as housing and commerce. Employment lands, '
+    'logistics and homes are considered together, with practical spaces that help regional businesses keep moving.',
 )
 
 INDUSTRIAL_TYPES = [
-    ('01', 'Industrial parks', 'Serviced, phased parkland with room to grow and the infrastructure to support it.'),
-    ('02', 'Warehousing and distribution', 'Warehouse and distribution facilities serving regional supply chains.'),
-    ('03', 'Flex-industrial space', 'Smaller-format flex units suited to trades, suppliers and light assembly.'),
-    ('04', 'Self-storage', 'Storage facilities built around efficient use of space and straightforward access.'),
-    ('05', 'Logistics', 'Logistics capability supporting both the industrial portfolio and the wider region.'),
+    ('01', 'Industrial parks', 'Serviced, phased employment lands with room to grow and infrastructure to support business activity.'),
+    ('02', 'Warehousing and distribution', 'Facilities planned to serve regional supply chains and distribution needs.'),
+    ('03', 'Flex-industrial space', 'Smaller-format spaces for trades, suppliers and light assembly.'),
+    ('04', 'Self-storage', 'Storage buildings planned for efficient use of space and straightforward access.'),
+    ('05', 'Logistics', 'Logistics space that supports the industrial sector and the wider region.'),
 ]
 
 INDUSTRIAL_PROJECTS = [

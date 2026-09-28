@@ -1,17 +1,19 @@
 # CHECKPOINT
 
 Resume point for the Plexus Development Group website.
-Last updated September 26, 2026, at the end of the checkpoint-refresh session.
+Last updated September 28, 2026, after the client requested a builder-focused presentation.
 
 Read this file first, then `Context.md` for the full durable project record.
 
-Nothing is mid-edit and nothing is blocked. Working tree is clean, local `main` matches `origin/main`, and the review server is running at http://127.0.0.1:8080.
+The builder-focused copy and typography refresh is applied and generated across all 13 routes. The working tree contains these changes. A fresh browser review is still needed for the typography and page layouts; the earlier route and breakpoint audit predates this refresh.
 
 ---
 
 ## 1. Where the project stands
 
 The site is feature-complete, verified across every route and breakpoint, documented, and under version control.
+
+The September 28 client direction is to present Plexus more clearly as a builder, while keeping the existing content, project records, premium minimal color palette and overall visual character. The homepage now introduces Pavneet Singh earlier, uses the existing active-construction aerial in its selected-projects passage, and carries building language through the main pages. Display typography now uses the locally hosted Manrope family with a heavier heading weight.
 
 Across the last three sessions:
 
@@ -37,7 +39,7 @@ These came from the client and still govern every change:
 
 1. Never invent project approvals, dates, metrics, testimonials, awards, partners or completed construction claims.
 2. Label renderings, concepts and planning-stage material honestly, in the interface itself.
-3. Do not change the color theme, typography or design language. The palette, type system and editorial grid are settled.
+3. Preserve the forest, paper and brass color theme and the premium, minimal editorial character. The updated display system uses bold Manrope with Switzer for supporting text.
 4. Do not promote unverified legacy claims into confident marketing copy.
 5. Respect media licenses. If rights are uncertain, flag it rather than shipping it.
 6. When a legacy source is corrected, disclose the correction on the page rather than applying it silently.

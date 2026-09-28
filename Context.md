@@ -639,3 +639,8 @@ This file contains no passwords, API tokens, account credentials, or private acc
 
 Respect all media licenses and client ownership requirements before commercial launch. If any source or usage right is uncertain, replace the asset or obtain confirmation rather than guessing.
 
+## 21. Client direction update — September 28, 2026
+
+The client asked for the site to read more clearly as a builder's website, while retaining its existing pages, information, project caveats, palette and premium minimal character. The homepage now places Pavneet Singh's existing portrait and leadership feature directly after the introduction and shows the labelled Lifestyle Enclave construction aerial in the selected-projects passage. The home hero remains the Halifax waterfront film, so Plexus stays the primary group brand.
+
+Display type now uses the local Manrope family with a heavier heading weight; Switzer remains the supporting typeface. Project statuses, concept disclosures and legacy-source notes remain in place. This refreshed build has been regenerated across all 13 routes; it still needs a new visual browser review after the typography update.

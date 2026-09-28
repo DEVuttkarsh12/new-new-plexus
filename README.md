@@ -1,6 +1,6 @@
 # Plexus Development Group
 
-A complete responsive website for Plexus Development Group, presented as a Halifax-based development, investment and land acquisition platform. The homepage leads with licensed Halifax waterfront film rather than project-specific apartment footage, then moves through Plexus's four development pillars, portfolio, long-term approach, leadership and partnership model. Lifestyle Enclave appears as one project within the wider portfolio.
+A complete responsive website for Plexus Development Group, presented as a Halifax-based building and development group. The homepage leads with Halifax waterfront film, then brings Pavneet Singh's leadership, the group's residential, commercial and industrial building work, active construction and wider project program into view. Lifestyle Enclave remains one project within the wider group.
 
 Start with `CHECKPOINT.md` for the current state and open client questions, then `Context.md` for the full project record.
 
@@ -70,7 +70,7 @@ The opening is intentionally calm: the Plexus signature fades in, holds briefly,
 
 Wide screens use two immersive passages: a four-chapter development mandate and a horizontal three-project portfolio. Phones return both sections to natural reading and native horizontal browsing.
 
-Lifestyle Enclave's separate construction overview remains available only on its project detail page. Its apartment, amenity and construction media do not drive the group-level homepage.
+Lifestyle Enclave's full construction overview remains on its project detail page. A labelled construction aerial also appears in the homepage's selected projects passage, alongside planned and concept-stage work, to make the group's building focus tangible without making the whole site read as a single-project leasing page.
 
 ## Enquiries and hosting
 
