@@ -1,0 +1,4 @@
+Sitemap: https://plexusdevelopmentgroup.ca/sitemap.xml
+
+User-agent: *
+Disallow:

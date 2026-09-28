@@ -341,7 +341,7 @@
       if (hero && heroMedia && hero.getBoundingClientRect().bottom > 0) {
         const progress = clamp(scrollY / hero.offsetHeight);
         heroMedia.style.transform = `translate3d(0,${progress * (hero.classList.contains('estate-hero') ? 28 : 130)}px,0) scale(${1+progress*.025})`;
-        if (heroCopy) heroCopy.style.transform = `translate3d(0,${-progress * 38}px,0)`;
+      if (heroCopy) heroCopy.style.transform = `translateY(${-progress * 20}px)`;
       }
       if (filmScroll && innerWidth > 809) {
         const rect = filmScroll.getBoundingClientRect();

@@ -1,0 +1,1374 @@
+[
+  {
+    "title": "Building Nova Scotia | Plexus Development Group",
+    "overflow": 0,
+    "heading": "BuildingNova Scotia.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 5934,
+    "menuVisible": false,
+    "imageHeights": [
+      210,
+      210,
+      210
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/",
+    "width": 360,
+    "height": 800,
+    "errors": ""
+  },
+  {
+    "title": "Projects | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 6851,
+    "menuVisible": false,
+    "imageHeights": [
+      210,
+      210,
+      210,
+      210
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/",
+    "width": 360,
+    "height": 800,
+    "errors": ""
+  },
+  {
+    "title": "Residential | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Residential Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 5174,
+    "menuVisible": false,
+    "imageHeights": [
+      210,
+      210,
+      210
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/residential/",
+    "width": 360,
+    "height": 800,
+    "errors": ""
+  },
+  {
+    "title": "Community | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Building more than spaces.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3863,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/community/",
+    "width": 360,
+    "height": 800,
+    "errors": ""
+  },
+  {
+    "title": "Contact us | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Let\u2019s build somethingthat lasts.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 2754,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/contact/",
+    "width": 360,
+    "height": 800,
+    "errors": ""
+  },
+  {
+    "title": "About Plexus | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Development with a long view.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 4283,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/about/",
+    "width": 360,
+    "height": 800,
+    "errors": ""
+  },
+  {
+    "title": "Website privacy | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Your enquiry.Your choice.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 2450,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/privacy/",
+    "width": 360,
+    "height": 800,
+    "errors": ""
+  },
+  {
+    "title": "Lifestyle Enclave | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Lifestyle Enclave",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 4616,
+    "menuVisible": false,
+    "imageHeights": [
+      210,
+      210
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/lifestyle-enclave/",
+    "width": 360,
+    "height": 800,
+    "errors": ""
+  },
+  {
+    "title": "Two River, Mineville | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Two River, Mineville",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 4455,
+    "menuVisible": false,
+    "imageHeights": [
+      210,
+      210
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/two-river-mineville/",
+    "width": 360,
+    "height": 800,
+    "errors": ""
+  },
+  {
+    "title": "Cornwallis Park | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Cornwallis Park",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 5344,
+    "menuVisible": false,
+    "imageHeights": [
+      210,
+      210
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/cornwallis-park/",
+    "width": 360,
+    "height": 800,
+    "errors": ""
+  },
+  {
+    "title": "The next communities | Plexus Development Group",
+    "overflow": 0,
+    "heading": "The next communities",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 4749,
+    "menuVisible": false,
+    "imageHeights": [
+      210,
+      210,
+      210
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/residential-pipeline/",
+    "width": 360,
+    "height": 800,
+    "errors": ""
+  },
+  {
+    "title": "Building Nova Scotia | Plexus Development Group",
+    "overflow": 0,
+    "heading": "BuildingNova Scotia.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 5878,
+    "menuVisible": false,
+    "imageHeights": [
+      210,
+      210,
+      210
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/",
+    "width": 390,
+    "height": 844,
+    "errors": ""
+  },
+  {
+    "title": "Projects | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 6768,
+    "menuVisible": false,
+    "imageHeights": [
+      210,
+      210,
+      210,
+      210
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/",
+    "width": 390,
+    "height": 844,
+    "errors": ""
+  },
+  {
+    "title": "Residential | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Residential Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 5115,
+    "menuVisible": false,
+    "imageHeights": [
+      210,
+      210,
+      210
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/residential/",
+    "width": 390,
+    "height": 844,
+    "errors": ""
+  },
+  {
+    "title": "Community | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Building more than spaces.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3802,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/community/",
+    "width": 390,
+    "height": 844,
+    "errors": ""
+  },
+  {
+    "title": "Contact us | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Let\u2019s build somethingthat lasts.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 2705,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/contact/",
+    "width": 390,
+    "height": 844,
+    "errors": ""
+  },
+  {
+    "title": "About Plexus | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Development with a long view.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 4204,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/about/",
+    "width": 390,
+    "height": 844,
+    "errors": ""
+  },
+  {
+    "title": "Website privacy | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Your enquiry.Your choice.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 2399,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/privacy/",
+    "width": 390,
+    "height": 844,
+    "errors": ""
+  },
+  {
+    "title": "Lifestyle Enclave | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Lifestyle Enclave",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 4549,
+    "menuVisible": false,
+    "imageHeights": [
+      210,
+      210
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/lifestyle-enclave/",
+    "width": 390,
+    "height": 844,
+    "errors": ""
+  },
+  {
+    "title": "Two River, Mineville | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Two River, Mineville",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 4368,
+    "menuVisible": false,
+    "imageHeights": [
+      210,
+      210
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/two-river-mineville/",
+    "width": 390,
+    "height": 844,
+    "errors": ""
+  },
+  {
+    "title": "Cornwallis Park | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Cornwallis Park",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 5183,
+    "menuVisible": false,
+    "imageHeights": [
+      210,
+      210
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/cornwallis-park/",
+    "width": 390,
+    "height": 844,
+    "errors": ""
+  },
+  {
+    "title": "The next communities | Plexus Development Group",
+    "overflow": 0,
+    "heading": "The next communities",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 4660,
+    "menuVisible": false,
+    "imageHeights": [
+      210,
+      210,
+      210
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/residential-pipeline/",
+    "width": 390,
+    "height": 844,
+    "errors": ""
+  },
+  {
+    "title": "Building Nova Scotia | Plexus Development Group",
+    "overflow": 0,
+    "heading": "BuildingNova Scotia.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 5097,
+    "menuVisible": false,
+    "imageHeights": [
+      195,
+      195,
+      195
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/",
+    "width": 768,
+    "height": 1024,
+    "errors": ""
+  },
+  {
+    "title": "Projects | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 5785,
+    "menuVisible": false,
+    "imageHeights": [
+      215,
+      215,
+      215,
+      215
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/",
+    "width": 768,
+    "height": 1024,
+    "errors": ""
+  },
+  {
+    "title": "Residential | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Residential Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 4208,
+    "menuVisible": false,
+    "imageHeights": [
+      195,
+      195,
+      195
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/residential/",
+    "width": 768,
+    "height": 1024,
+    "errors": ""
+  },
+  {
+    "title": "Community | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Building more than spaces.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3311,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/community/",
+    "width": 768,
+    "height": 1024,
+    "errors": ""
+  },
+  {
+    "title": "Contact us | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Let\u2019s build somethingthat lasts.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 2618,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/contact/",
+    "width": 768,
+    "height": 1024,
+    "errors": ""
+  },
+  {
+    "title": "About Plexus | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Development with a long view.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3441,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/about/",
+    "width": 768,
+    "height": 1024,
+    "errors": ""
+  },
+  {
+    "title": "Website privacy | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Your enquiry.Your choice.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 2071,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/privacy/",
+    "width": 768,
+    "height": 1024,
+    "errors": ""
+  },
+  {
+    "title": "Lifestyle Enclave | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Lifestyle Enclave",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3793,
+    "menuVisible": false,
+    "imageHeights": [
+      195,
+      195
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/lifestyle-enclave/",
+    "width": 768,
+    "height": 1024,
+    "errors": ""
+  },
+  {
+    "title": "Two River, Mineville | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Two River, Mineville",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3653,
+    "menuVisible": false,
+    "imageHeights": [
+      195,
+      195
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/two-river-mineville/",
+    "width": 768,
+    "height": 1024,
+    "errors": ""
+  },
+  {
+    "title": "Cornwallis Park | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Cornwallis Park",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 4553,
+    "menuVisible": false,
+    "imageHeights": [
+      195,
+      195
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/cornwallis-park/",
+    "width": 768,
+    "height": 1024,
+    "errors": ""
+  },
+  {
+    "title": "The next communities | Plexus Development Group",
+    "overflow": 0,
+    "heading": "The next communities",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3931,
+    "menuVisible": false,
+    "imageHeights": [
+      195,
+      195,
+      195
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/residential-pipeline/",
+    "width": 768,
+    "height": 1024,
+    "errors": ""
+  },
+  {
+    "title": "Building Nova Scotia | Plexus Development Group",
+    "overflow": 0,
+    "heading": "BuildingNova Scotia.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 4784,
+    "menuVisible": false,
+    "imageHeights": [
+      230,
+      230,
+      230
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/",
+    "width": 1440,
+    "height": 1000,
+    "errors": ""
+  },
+  {
+    "title": "Projects | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 5426,
+    "menuVisible": false,
+    "imageHeights": [
+      275,
+      275,
+      275,
+      275
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/",
+    "width": 1440,
+    "height": 1000,
+    "errors": ""
+  },
+  {
+    "title": "Residential | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Residential Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3875,
+    "menuVisible": false,
+    "imageHeights": [
+      230,
+      230,
+      230
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/residential/",
+    "width": 1440,
+    "height": 1000,
+    "errors": ""
+  },
+  {
+    "title": "Community | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Building more than spaces.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3179,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/community/",
+    "width": 1440,
+    "height": 1000,
+    "errors": ""
+  },
+  {
+    "title": "Contact us | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Let\u2019s build somethingthat lasts.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 2315,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/contact/",
+    "width": 1440,
+    "height": 1000,
+    "errors": ""
+  },
+  {
+    "title": "About Plexus | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Development with a long view.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3597,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/about/",
+    "width": 1440,
+    "height": 1000,
+    "errors": ""
+  },
+  {
+    "title": "Website privacy | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Your enquiry.Your choice.",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 2260,
+    "menuVisible": false,
+    "imageHeights": [],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/privacy/",
+    "width": 1440,
+    "height": 1000,
+    "errors": ""
+  },
+  {
+    "title": "Lifestyle Enclave | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Lifestyle Enclave",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3721,
+    "menuVisible": false,
+    "imageHeights": [
+      230,
+      230
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/lifestyle-enclave/",
+    "width": 1440,
+    "height": 1000,
+    "errors": ""
+  },
+  {
+    "title": "Two River, Mineville | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Two River, Mineville",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3662,
+    "menuVisible": false,
+    "imageHeights": [
+      230,
+      230
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/two-river-mineville/",
+    "width": 1440,
+    "height": 1000,
+    "errors": ""
+  },
+  {
+    "title": "Cornwallis Park | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Cornwallis Park",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3967,
+    "menuVisible": false,
+    "imageHeights": [
+      230,
+      230
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/cornwallis-park/",
+    "width": 1440,
+    "height": 1000,
+    "errors": ""
+  },
+  {
+    "title": "The next communities | Plexus Development Group",
+    "overflow": 0,
+    "heading": "The next communities",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3652,
+    "menuVisible": false,
+    "imageHeights": [
+      230,
+      230,
+      230
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/projects/residential-pipeline/",
+    "width": 1440,
+    "height": 1000,
+    "errors": ""
+  },
+  {
+    "title": "Commercial | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Commercial Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 4426,
+    "menuVisible": false,
+    "imageHeights": [
+      225,
+      225
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/commercial/",
+    "width": 360,
+    "height": 800,
+    "errors": ""
+  },
+  {
+    "title": "Industrial | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Industrial Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3618,
+    "menuVisible": false,
+    "imageHeights": [
+      225
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/industrial/",
+    "width": 360,
+    "height": 800,
+    "errors": ""
+  },
+  {
+    "title": "Commercial | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Commercial Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 4284,
+    "menuVisible": false,
+    "imageHeights": [
+      225,
+      225
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/commercial/",
+    "width": 390,
+    "height": 844,
+    "errors": ""
+  },
+  {
+    "title": "Industrial | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Industrial Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3535,
+    "menuVisible": false,
+    "imageHeights": [
+      225
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/industrial/",
+    "width": 390,
+    "height": 844,
+    "errors": ""
+  },
+  {
+    "title": "Commercial | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Commercial Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3562,
+    "menuVisible": false,
+    "imageHeights": [
+      230,
+      230
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/commercial/",
+    "width": 768,
+    "height": 1024,
+    "errors": ""
+  },
+  {
+    "title": "Industrial | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Industrial Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3058,
+    "menuVisible": false,
+    "imageHeights": [
+      230
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/industrial/",
+    "width": 768,
+    "height": 1024,
+    "errors": ""
+  },
+  {
+    "title": "Commercial | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Commercial Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3814,
+    "menuVisible": false,
+    "imageHeights": [
+      260,
+      260
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/commercial/",
+    "width": 1440,
+    "height": 1000,
+    "errors": ""
+  },
+  {
+    "title": "Industrial | Plexus Development Group",
+    "overflow": 0,
+    "heading": "Our Industrial Projects",
+    "heroFits": true,
+    "wordFits": true,
+    "brokenImages": [],
+    "contentHeight": 3302,
+    "menuVisible": false,
+    "imageHeights": [
+      260
+    ],
+    "nav": [
+      "Home",
+      "Projects",
+      "Residential",
+      "Commercial",
+      "Industrial",
+      "Community",
+      "Contact"
+    ],
+    "route": "/industrial/",
+    "width": 1440,
+    "height": 1000,
+    "errors": ""
+  }
+]

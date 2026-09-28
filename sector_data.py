@@ -63,9 +63,8 @@ BRANCHES = [
         # The source graphic shows this branch with no children. Its only
         # appearance in published copy is among the potential uses on the
         # Cornwallis concept, so the chart says exactly that.
-        'note': 'No project detail, scope, location or timeline was ever published for this initiative. '
-                'It appears in published copy only as wind and solar integration among the potential '
-                'uses on the Cornwallis Park concept plan.',
+        'note': 'Wind and solar integration is considered in the Cornwallis Park concept. '
+                'No separate project scope or timeline has been published.',
     },
 ]
 

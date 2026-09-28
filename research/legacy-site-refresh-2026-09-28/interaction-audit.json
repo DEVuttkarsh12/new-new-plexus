@@ -1,0 +1,35 @@
+{
+  "filters": {
+    "initial": "4 projects",
+    "search": "1 project",
+    "reset": "4 projects",
+    "region": "2 projects",
+    "stage": "1 project",
+    "empty": "0 projects",
+    "emptyShown": true,
+    "menuOpen": true,
+    "menuClosed": true,
+    "chartDisclosure": true,
+    "photoOpen": true,
+    "photoSource": "/assets/project-locations.webp",
+    "photoClosed": true,
+    "motionToggles": true
+  },
+  "contact": {
+    "subject": "Community Partnership",
+    "required": [
+      "name",
+      "email",
+      "message"
+    ],
+    "validEmpty": false,
+    "email": "mailto:info@plexusdevelopmentgroup.ca"
+  },
+  "details": {
+    "expanded": true,
+    "description": 671,
+    "facts": 8,
+    "features": 12
+  },
+  "errors": ""
+}

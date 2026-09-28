@@ -644,3 +644,16 @@ Respect all media licenses and client ownership requirements before commercial l
 The client asked for the site to read more clearly as a builder's website, while retaining its existing pages, information, project caveats, palette and premium minimal character. The homepage now places Pavneet Singh's existing portrait and leadership feature directly after the introduction and shows the labelled Lifestyle Enclave construction aerial in the selected-projects passage. The home hero remains the Halifax waterfront film, so Plexus stays the primary group brand.
 
 Display type now uses the local Manrope family with a heavier heading weight; Switzer remains the supporting typeface. Project statuses, concept disclosures and legacy-source notes remain in place. This refreshed build has been regenerated across all 13 routes; it still needs a new visual browser review after the typography update.
+
+
+## September 28, 2026: content and layout refinement
+
+The client explicitly requested a simpler presentation based on the currently live legacy site, smaller project images and headings, fewer repeated text sections and a fully visible mobile footer. This replaces the older requirement to keep the pinned project journey and sector passage.
+
+All seven canonical legacy pages were refetched and matched the September 25 archive byte for byte. The new capture is `research/legacy-site-refresh-2026-09-28/`. Original complete media and browser research remains in the September 25 archive.
+
+The homepage, project index, sector pages, About and Community are now more concise. Longer source text and project information remain in native disclosures. The project index preserves the readable hierarchy, original chart access, asset classes and original location map. Original residential logos and Plexus Storage brand artwork have been restored without representing them as completed projects.
+
+The shared footer uses a container-sized wordmark and normal line height. `dist/refinement.css` is the current responsive presentation layer. The generator no longer contains the retired page sections or repeated FAQs. All generated routes were refreshed. Deployment and production indexing were not changed.
+
+Use `CHECKPOINT.md` for the latest state and `DESIGN-REFINEMENT-2026-09-28.md` for the refinement and review record.

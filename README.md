@@ -2,7 +2,7 @@
 
 A complete responsive website for Plexus Development Group, presented as a Halifax-based building and development group. The homepage leads with Halifax waterfront film, then brings Pavneet Singh's leadership, the group's residential, commercial and industrial building work, active construction and wider project program into view. Lifestyle Enclave remains one project within the wider group.
 
-Start with `CHECKPOINT.md` for the current state and open client questions, then `Context.md` for the full project record.
+Start with `CHECKPOINT.md` for the current state and open client questions, then `Context.md` for the full project record. The September 28 content and layout refinement is documented in `DESIGN-REFINEMENT-2026-09-28.md`; it supersedes the older pinned project and sector layouts described below.
 
 Source: https://github.com/DEVuttkarsh12/new-new-plexus
 
