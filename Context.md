@@ -657,3 +657,11 @@ The homepage, project index, sector pages, About and Community are now more conc
 The shared footer uses a container-sized wordmark and normal line height. `dist/refinement.css` is the current responsive presentation layer. The generator no longer contains the retired page sections or repeated FAQs. All generated routes were refreshed. Deployment and production indexing were not changed.
 
 Use `CHECKPOINT.md` for the latest state and `DESIGN-REFINEMENT-2026-09-28.md` for the refinement and review record.
+
+## September 29, 2026: centred hero and restrained polish
+
+The client asked to resume the latest simplified website, centre the large homepage hero text and refine the presentation while keeping the small-image decision. The homepage headline, overline, description and project link now share the horizontal centre. Symmetric title padding, balanced copy wrapping and a centre-weighted overlay preserve the Halifax film and the existing opening and motion behavior.
+
+The final styling layer also improves service-link arrows, project-card spacing and hover states, project-status and scale contrast, disclosure focus feedback, captions, partner-column dividers and interior-title wrapping. Images, image heights, sourced content, navigation and page structure remain unchanged. All 13 pages were regenerated to refresh the stylesheet fingerprint.
+
+Browser verification passed on all 13 routes at 320, 390, 768, 1440 and 1920 px: 65 combinations with no overflow, footer clipping, missing images or browser errors. Hero alignment and metadata separation passed at every width. Mobile menu and Escape, homepage disclosures, the hero project link, project search and reset passed. Desktop and phone screenshots were inspected. Internal links/assets, JavaScript syntax and whitespace checks passed. This polish is complete and included in the current revision; website deployment remains a separate action.

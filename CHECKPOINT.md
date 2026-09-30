@@ -1,11 +1,13 @@
 # Plexus website checkpoint
 
-Last updated September 28, 2026, after the content and layout refinement.
+Last updated September 29, 2026, after the centred hero and visual polish.
 Read this file first; `Context.md` contains the historical project record.
 
 ## Current state
 
 The client requested a simpler, more professional development-group and builder website based on the live legacy site's content and structure. This supersedes the earlier direction to retain the large pinned project and sector sequences.
+
+The September 29 follow-up centres the homepage hero headline, supporting text and project link as one composition. The smaller-image direction and simplified pages remain in place. Shared typography, project labels, hover and focus treatments, and partner-column spacing have received a restrained polish in `dist/refinement.css`. This follow-up is complete and included in the current revision; website deployment remains a separate action.
 
 The redesign is applied across all 13 routes and generated into `dist/`. The preview is served at http://127.0.0.1:8080/ when the local server is running. The client has authorized committing and pushing this revision to GitHub on `main` at `DEVuttkarsh12/new-new-plexus`. Website deployment has not been requested.
 
@@ -23,6 +25,9 @@ The redesign is applied across all 13 routes and generated into `dist/`. The pre
 - Preserved the full original company statement on About through `legacy_content.json`.
 - Repaired the shared footer wordmark with container-relative typography and a normal line box. Contact details and all seven navigation destinations remain accessible.
 - Corrected the homepage title layout so positioning is independent of its parallax transform.
+- Centred the hero composition on desktop, tablet and phones, with symmetric headline padding, balanced supporting copy and a centre-weighted video overlay.
+- Added fine brass rules around the desktop hero overline, consistent service-link arrows, subtle partner dividers and clearer disclosure focus states.
+- Corrected project-status and project-scale contrast on the dark homepage section; retained all existing image assets and compact image heights.
 
 ## Architecture and editing
 
@@ -57,6 +62,8 @@ Legacy questions about Greenwood/Lucasville naming, Plexus Storage locations, CH
 ## Validation and next resume
 
 Completed browser review: 13 routes at 360, 390, 768 and 1440 px, 52 combinations with zero detected overflow, footer clipping, missing images or browser errors. Navigation, project filters and reset, image previews, native disclosures, motion preferences and contact fields passed their interaction checks. Syntax and internal-link checks also passed. No contact enquiry was submitted.
+
+September 29 review: all 13 routes at 320, 390, 768, 1440 and 1920 px (65 combinations) passed with no horizontal overflow, clipped footer wordmarks, missing images or browser errors. The hero headline, description and link are horizontally centred within 0.02 px at every tested width, with no title clipping or overlap with hero metadata. Selected homepage project images remain at or below 230 px. Mobile navigation, Escape, homepage disclosures, the hero-to-projects link, project search and reset passed. Final desktop and phone screenshots were inspected, including the project and partner sections. Internal asset/link checks, JavaScript syntax and `git diff --check` passed. The disposable audit and screenshots live in `/tmp/plexus-browser/` and `/tmp/plexus-*.png`.
 
 See `DESIGN-REFINEMENT-2026-09-28.md` and `research/legacy-site-refresh-2026-09-28/` for source mappings and the final review record. Disposable browser tooling and screenshots live under `/tmp/plexus-review/`.
 
