@@ -61,6 +61,8 @@ The connected `Pavneet-Singh-media` folder was reviewed for relevant media. Its 
 
 `asset-sources.json` records each source-backed production asset. Original filenames can differ from optimized delivery filenames. `lifestyle-arrival.webp`, `lifestyle-front.webp`, `lifestyle-lobby.webp` and `lifestyle-drone.webp` remain project-specific. `mineville.webp`, `cornwallis.webp` and `community.webp` are labelled as concepts rather than finished places. `wilmot-concept.webp` and `lucasville-concept.webp` come from the legacy commercial page; the Wilmot file has its source title band, which contains a location typo, cropped out, and both are published only inside the labelled opportunity register.
 
+The homepage location graphic is the original Plexus project map from the previous website, shown without the former grayscale filter. Its unlabeled markers remain historical references. The portfolio's group structure is rebuilt as accessible HTML from the original project flow chart; the published image remains available there for comparison, with documented spelling and project-profile corrections. The site's Manrope typeface follows the [Lifestyle Enclave](https://lifestyleenclave.ca/) reference and is supplied under the SIL Open Font License in `licenses/Manrope-OFL.txt`.
+
 The original Plexus logo is shown inside a circular presentation without changing its artwork. Fonts are self-hosted. License notes are in `licenses/`. All interaction and animation use local CSS and JavaScript, with no external tracker or animation service.
 
 ## Implementation limits

@@ -3,7 +3,7 @@
 ## Delivered in the review build
 
 - New corporate positioning, dark navy / warm white / restrained gold visual system, accessible responsive navigation and a homepage led by locally hosted Halifax drone footage.
-- Sourced “at a glance” figures, selected projects, a location interface, capabilities, reasons to work with Plexus, audience-specific partnership paths, leadership, impact, insights and news.
+- Selected projects, the original Plexus location map, a readable version of its published project structure chart, capabilities, partnership paths, leadership, impact, insights and news. The former numeric strip directly below the homepage hero has been removed.
 - Filterable portfolio and individual profiles for Lifestyle Enclave, Two River / Mineville and Cornwallis Park, with earlier residential names kept in a separate reference record. Each page labels construction material or a concept and includes source caveats.
 - Acquisitions, landowner, broker, capital, municipality, careers, media centre, contact, privacy, terms, accessibility, legal and search pages.
 - Unique page titles and descriptions, canonical and social tags, organization and breadcrumb structured data, sitemap, robots controls, image alt text, reduced-motion support and a static 404 page.
