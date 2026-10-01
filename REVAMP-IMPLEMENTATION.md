@@ -2,7 +2,7 @@
 
 ## Delivered in the review build
 
-- New corporate positioning, dark navy / warm white / restrained gold visual system, accessible responsive navigation and a homepage led by actual Lifestyle Enclave construction imagery and locally hosted film.
+- New corporate positioning, dark navy / warm white / restrained gold visual system, accessible responsive navigation and a homepage led by locally hosted Halifax drone footage.
 - Sourced “at a glance” figures, selected projects, a location interface, capabilities, reasons to work with Plexus, audience-specific partnership paths, leadership, impact, insights and news.
 - Filterable portfolio and individual profiles for Lifestyle Enclave, Two River / Mineville and Cornwallis Park, with earlier residential names kept in a separate reference record. Each page labels construction material or a concept and includes source caveats.
 - Acquisitions, landowner, broker, capital, municipality, careers, media centre, contact, privacy, terms, accessibility, legal and search pages.
@@ -40,7 +40,7 @@ A private partner portal, data rooms, lead scoring, marketing automation and a C
 
 ## Production setup
 
-- Obtain approved project photography, current corporate film, professional portraits, named organizations and milestone announcements. The existing film shows Lifestyle Enclave construction; it is not a commissioned Plexus corporate film.
+- Obtain approved project photography, a commissioned corporate film, professional portraits, named organizations and milestone announcements. The homepage currently uses licensed Halifax stock footage; the Lifestyle Enclave project page retains its construction film.
 - Implement true HTTP 301 redirects for the nine former paths in the production host. The static fallback pages currently use meta refresh for preview continuity only.
 - Choose a CMS or editorial workflow for projects, metrics, articles, jobs, images and SEO fields. `projects.json` is the interim structured project record.
 - Set the production origin and launch flag in `generate_site.py`, regenerate, then verify canonical URLs, robots.txt and sitemap.xml on the actual domain.

@@ -108,12 +108,12 @@
   {
     "filename": "pavneet-singh.webp",
     "label": "Pavneet Singh",
-    "kind": "Cropped official portrait with source graphic text removed from view",
+    "kind": "Higher resolution crop of official portrait with promotional text removed from view",
     "sourcePage": "https://realtorpavneetsingh.ca/",
     "directUrl": "https://assets.zyrosite.com/cdn-cgi/image/format%3Dauto%2Cw%3D768%2Ch%3D762%2Cfit%3Dcrop/crLkORlvYVMKzm8Y/70b5143a-263a-4e3c-9721-540c26db5020-0wKCvXuhsn60RH4N.jpg",
     "format": "WEBP",
-    "width": 423,
-    "height": 762
+    "width": 571,
+    "height": 1136
   },
   {
     "filename": "lifestyle-drone.webp",
@@ -289,12 +289,60 @@
     "file": "community-moments-bags.webp",
     "source": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.22-pm-GbEIRVDNkYfH50vr.jpeg",
     "type": "Photograph published on the original Plexus community page",
-    "note": "No source date, event attribution or contribution claim is established by this photograph."
+    "note": "No source date, event attribution or contribution claim is established by this photograph.",
+    "width": 1080,
+    "height": 810
   },
   {
     "file": "community-moments-meals.webp",
     "source": "https://assets.zyrosite.com/DRpyQ9BauhckYzhd/whatsapp-image-2025-09-24-at-1.02.23-pm-ha7yuft9kmxBy42Q.jpeg",
     "type": "Photograph published on the original Plexus community page",
-    "note": "No source date, event attribution or contribution claim is established by this photograph."
+    "note": "No source date, event attribution or contribution claim is established by this photograph.",
+    "width": 1080,
+    "height": 814
+  },
+  {
+    "filename": "halifax-hero.mp4",
+    "label": "Halifax waterfront and skyline aerial",
+    "kind": "Locally optimized Halifax drone hero film, silent H.264",
+    "sourcePage": "https://www.pexels.com/video/aerial-view-of-halifax-waterfront-skyline-29754976/",
+    "directUrl": "https://videos.pexels.com/video-files/29754976/12787908_3840_2160_30fps.mp4",
+    "publisher": "Max Medyk",
+    "license": "Pexels License",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "filename": "halifax-hero.webp",
+    "label": "Halifax waterfront and skyline aerial",
+    "kind": "Desktop poster frame from Halifax drone film",
+    "sourcePage": "https://www.pexels.com/video/aerial-view-of-halifax-waterfront-skyline-29754976/",
+    "directUrl": "https://videos.pexels.com/video-files/29754976/12787908_3840_2160_30fps.mp4",
+    "publisher": "Max Medyk",
+    "license": "Pexels License",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "filename": "halifax-hero-mobile.webp",
+    "label": "Halifax waterfront and skyline aerial",
+    "kind": "Phone crop from Halifax drone film",
+    "sourcePage": "https://www.pexels.com/video/aerial-view-of-halifax-waterfront-skyline-29754976/",
+    "directUrl": "https://videos.pexels.com/video-files/29754976/12787908_3840_2160_30fps.mp4",
+    "publisher": "Max Medyk",
+    "license": "Pexels License",
+    "width": 720,
+    "height": 1280
+  },
+  {
+    "filename": "halifax-hero-mobile.mp4",
+    "label": "Halifax waterfront and skyline aerial",
+    "kind": "Locally optimized phone crop of Halifax drone hero film, silent H.264",
+    "sourcePage": "https://www.pexels.com/video/aerial-view-of-halifax-waterfront-skyline-29754976/",
+    "directUrl": "https://videos.pexels.com/video-files/29754976/12787908_3840_2160_30fps.mp4",
+    "publisher": "Max Medyk",
+    "license": "Pexels License",
+    "width": 720,
+    "height": 1280
   }
 ]

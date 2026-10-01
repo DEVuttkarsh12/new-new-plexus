@@ -30,12 +30,21 @@ The following legacy information is carried into the interface as clearly qualif
 
 ## Halifax hero film
 
+- Current homepage source: https://www.pexels.com/video/aerial-view-of-halifax-waterfront-skyline-29754976/
+- Original 4K file: https://videos.pexels.com/video-files/29754976/12787908_3840_2160_30fps.mp4
+- Publisher: Max Medyk
+- License: Pexels License (https://www.pexels.com/license/)
+
+The homepage uses locally optimized desktop (1920 × 1080) and phone (720 × 1280) aerials of downtown Halifax and its waterfront. Their fallback images come from the same 4K source. This is location footage, not a Plexus project image.
+
+### Earlier waterfront film, retained for reference
+
 - Source page: https://pixabay.com/videos/harbour-building-port-ocean-harbor-48067/
 - Original file: https://cdn.pixabay.com/video/2020/08/25/48067-453650560_large.mp4
 - Publisher: MaxMedyk
 - License: Pixabay Content License
 
-The source is a text-free Halifax waterfront establishing film. The production files are locally optimized desktop and portrait crops with no audio or added lettering. The site uses local poster frames derived from the same source.
+The earlier source is a text-free Halifax waterfront establishing film. Its optimized desktop and portrait crops remain in the asset library, but the homepage now uses the aerial above.
 
 ## Pavneet Singh
 

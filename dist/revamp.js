@@ -10,7 +10,7 @@
   matchMedia('(min-width:901px)').addEventListener('change',ev=>{if(ev.matches)closeMenu()});
 
   const video=$('.hero-video');
-  if(video&&!matchMedia('(prefers-reduced-motion: reduce)').matches&&matchMedia('(min-width: 700px)').matches){
+  if(video&&!matchMedia('(prefers-reduced-motion: reduce)').matches){
     const start=()=>video.play().then(()=>video.classList.add('playing')).catch(()=>{});
     new IntersectionObserver(entries=>{if(entries[0].isIntersecting&&!document.hidden)start();else video.pause()},{threshold:.15}).observe(video);
     document.addEventListener('visibilitychange',()=>{if(document.hidden)video.pause();else if(video.getBoundingClientRect().top<innerHeight)start()});
